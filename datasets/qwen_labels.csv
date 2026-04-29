@@ -1,0 +1,141 @@
+research_field,email,topic_label,topic_words,ver_label,tax_label
+Image & Video Processing,mohammed.salem@guc.edu.eg,Object Detection and Tracking,"detection, tracking, object, recognition, computer",Object Detection and Tracking,Object Detection and Tracking
+Image & Video Processing,mohammed.salem@guc.edu.eg,Image and Video Segmentation,"segmentation, pixels, regions, clustering, boundary",Image Segmentation and Analysis,Image Segmentation and Analysis
+Image & Video Processing,mohammed.salem@guc.edu.eg,Image Quality Enhancement,"enhancement, filtering, noise, restoration, quality",Image and Video Enhancement,Image and Video Enhancement
+Image & Video Processing,mohammed.salem@guc.edu.eg,Video Compression Techniques,"compression, encoding, decoding, storage, bandwidth",Machine Learning and Computer Vision,Image/Video Compression and Encoding
+Image & Video Processing,mohammed.salem@guc.edu.eg,Image Feature Extraction,"feature, extraction, descriptor, matching, retrieval",Image Feature Extraction and Matching,Image Feature Extraction and Matching
+Image & Video Processing,mohammed.salem@guc.edu.eg,Video Motion Estimation,"motion, estimation, flow, analysis, video",Motion and Video Analysis,Climate Change and Weather Forecasting
+Image & Video Processing,mohammed.salem@guc.edu.eg,Deep Learning for Vision,"neural, convolutional, learning, deep, networks",Machine Learning for Natural Language Processing,Deep Neural Networks for Image Processing
+Signal Processing,mohammed.salem@guc.edu.eg,Digital Filter Design,"filter, design, fir, iir, adaptive",Filter Design and Types,Filter Design and Architecture
+Signal Processing,mohammed.salem@guc.edu.eg,Signal Transformation and Analysis,"transform, fourier, wavelet, spectral, estimation",Signal Transform Methods,Signal Transform and Estimation
+Signal Processing,mohammed.salem@guc.edu.eg,Noise Reduction and Estimation,"noise, denoising, estimation, kalman, wiener",Signal Denoising and Estimation,Signal Denoising and Estimation
+Signal Processing,mohammed.salem@guc.edu.eg,Analog-to-Digital Conversion,"sampling, conversion, analog, digital, quantization",Signal Sampling and Conversion,Signal Sampling and Conversion
+Signal Processing,mohammed.salem@guc.edu.eg,Signal Compression and Coding,"compression, coding, source, lossy, lossless",Signal Compression and Coding,Signal Compression and Coding
+Signal Processing,mohammed.salem@guc.edu.eg,Sensing and Signal Processing,"array, beamforming, localization, sensors, detection",Array Signal Processing and Localization,Array Signal Processing and Localization
+Signal Processing,mohammed.salem@guc.edu.eg,Image and Video Processing,"image, video, processing, enhancement, segmentation",Image and Video Processing,Computer Vision and Machine Learning
+Image Segmentation,mohammed.salem@guc.edu.eg,Deep Learning Models for Segmentation,"convolutional, unet, mask, fcn, pixel",Convolutional Neural Network Image Segmentation,Convolutional Neural Network Segmentation
+Image Segmentation,mohammed.salem@guc.edu.eg,Types of Image Segmentation Tasks,"semantic, instance, panoptic, classes, delineation",Semantic Instance Segmentation,Semantic Instance Segmentation
+Image Segmentation,mohammed.salem@guc.edu.eg,Traditional Segmentation Algorithms,"thresholding, clustering, region, watershed, graph",Image Segmentation Thresholding and Clustering,Image Segmentation Techniques
+Image Segmentation,mohammed.salem@guc.edu.eg,Segmentation in Medical Imaging,"medical, mri, tumor, diagnosis, radiography",Medical Image Segmentation,Medical Image Segmentation
+Image Segmentation,mohammed.salem@guc.edu.eg,Segmentation for Autonomous Systems,"autonomous, vehicles, driving, lanes, roads",Autonomous Vehicle Image Segmentation,Autonomous Vehicle Image Segmentation
+Image Segmentation,mohammed.salem@guc.edu.eg,Boundary Detection and Refinement,"boundary, edge, contour, detection, precision",Text Classification and Recognition,Boundary and Edge Detection
+Image Segmentation,mohammed.salem@guc.edu.eg,Segmentation Dataset Annotation,"annotation, ground, truth, dataset, labeling",Text Classification and Labeling,Machine Learning and Classification Models
+Computer Vision,mohammed.salem@guc.edu.eg,Core Computer Vision Tasks,"detection, classification, recognition, segmentation, tracking",Object Detection and Recognition,Machine Learning and AI
+Computer Vision,mohammed.salem@guc.edu.eg,Deep Learning for Vision,"convolutional, neural, networks, deep, learning",Convolutional Neural Networks for Computer Vision,Convolutional Neural Network Learning
+Computer Vision,mohammed.salem@guc.edu.eg,3D Computer Vision,"three-dimensional, reconstruction, geometry, pose, depth",Three-Dimensional Object Reconstruction,3D Object Reconstruction and Geometry
+Computer Vision,mohammed.salem@guc.edu.eg,Generative Image Synthesis,"generative, models, synthesis, gans, diffusion",Generative Model Synthesis in Computer Vision,Generative Models for Computer Vision
+Computer Vision,mohammed.salem@guc.edu.eg,Vision Robustness & Security,"robustness, adversarial, attacks, generalization, uncertainty",Robust Computer Vision and Adversarial Attacks,Robust Computer Vision and Adversarial Attacks
+Computer Vision,mohammed.salem@guc.edu.eg,Vision for Robotics,"autonomous, driving, robotics, slam, perception",Autonomous Driving and Robotics,Machine Learning and AI
+Computer Vision,mohammed.salem@guc.edu.eg,Medical & Biological Imaging,"medical, imaging, diagnosis, radiology, biometrics",Medical Image Analysis,Medical Image Analysis
+Pattern Recognition,mohammed.salem@guc.edu.eg,Fundamental Pattern Classification,"classification, features, algorithm, data, training",Feature-Based Classification and Algorithm Training,Feature-Based Classification and Algorithm Training
+Pattern Recognition,mohammed.salem@guc.edu.eg,Image Recognition and Vision,"image, vision, segmentation, recognition, detection",Machine Learning and Algorithms,Machine Learning and AI
+Pattern Recognition,mohammed.salem@guc.edu.eg,Acoustic Speech Pattern Recognition,"speech, audio, voice, acoustics, speaker",Speech and Audio Recognition,Speech and Audio Recognition
+Pattern Recognition,mohammed.salem@guc.edu.eg,Biometric Security Patterns,"biometric, face, fingerprint, authentication, identity",Biometric Authentication and Recognition,Biometric Authentication and Recognition
+Pattern Recognition,mohammed.salem@guc.edu.eg,Deep Learning Models,"neural, deep, learning, network, machine",Neural,Deep Neural Image Recognition
+Pattern Recognition,mohammed.salem@guc.edu.eg,Character and Text Recognition,"text, handwriting, character, optical, documents",Text and Handwriting Recognition,Text and Handwriting Recognition
+Pattern Recognition,mohammed.salem@guc.edu.eg,Data Mining and Pattern Discovery,"data, mining, extraction, discovery, large",Large-scale Data Mining and Discovery,Data Mining and Discovery
+Explainable Artificial Intelligence (XAI),mervat.abuelkheir@guc.edu.eg,Foundations of XAI,"interpretability, transparency, black-box, trust, auditability",Machine Learning and Predictive Modeling,Explainable Artificial Intelligence Interpretability
+Explainable Artificial Intelligence (XAI),mervat.abuelkheir@guc.edu.eg,Post-Hoc Explanation Methods,"lime, shap, surrogate, local, agnostic",Lime-Based Explainable AI,Lime-based Explainable AI
+Explainable Artificial Intelligence (XAI),mervat.abuelkheir@guc.edu.eg,Explanation Components,"features, relevance, importance, attribution, saliency",Feature Importance and Explainability,Feature Importance and Interpretability
+Explainable Artificial Intelligence (XAI),mervat.abuelkheir@guc.edu.eg,Causal and Logical Explanations,"causal, counterfactuals, logic, rules, reasoning",Causal and Counterfactual Reasoning in XAI,Causal and Counterfactual Reasoning in XAI
+Explainable Artificial Intelligence (XAI),mervat.abuelkheir@guc.edu.eg,Human-Centered XAI,"human, user, interface, evaluation, fidelity",Explainable Machine Learning Model Evaluation,Human-Computer Interaction and Explainability
+Explainable Artificial Intelligence (XAI),mervat.abuelkheir@guc.edu.eg,Ethical and Regulatory XAI,"ethics, fairness, bias, accountability, regulation",Fairness and Bias in Machine Learning,Privacy and Data Security
+Explainable Artificial Intelligence (XAI),mervat.abuelkheir@guc.edu.eg,Explaining Deep Learning,"neural, deep, cnn, transformer, visualization",Neural Network Explainability,Deep Reinforcement Learning
+Natural Language Processing,mervat.abuelkheir@guc.edu.eg,Transformer Language Models,"transformer, attention, sequence, language, model",Transformer-based Sequence Models for NLP,Transformer-based Language Models
+Natural Language Processing,mervat.abuelkheir@guc.edu.eg,Syntactic Parsing and Grammar,"parsing, syntactic, dependency, tree, grammar",Parsing and Syntactic Analysis,Parsing and Syntactic Analysis
+Natural Language Processing,mervat.abuelkheir@guc.edu.eg,Sentiment and Emotion Analysis,"emotion, sentiment, opinion, classification, analysis",Sentiment Analysis and Emotion Classification,Sentiment Analysis and Emotion Classification
+Natural Language Processing,mervat.abuelkheir@guc.edu.eg,Text Preprocessing and Embeddings,"tokenization, embedding, vocabulary, corpus, pre-processing",Machine Learning and Deep Learning,Text Preprocessing and Representation
+Natural Language Processing,mervat.abuelkheir@guc.edu.eg,Dialogue Systems and Chatbots,"dialogue, chatbot, generation, interaction, system",Dialogue and Chatbot Interaction,Dialogue and Chatbot Interaction
+Natural Language Processing,mervat.abuelkheir@guc.edu.eg,Named Entity Recognition,"entity, recognition, linking, extraction, named",Entity Recognition and Extraction,Entity Recognition and Extraction
+Natural Language Processing,mervat.abuelkheir@guc.edu.eg,Machine Translation Techniques,"translation, machine, cross-lingual, parallel, transfer",Machine Translation and Cross-Lingual NLP,Machine Translation and Cross-Lingual NLP
+Data Engineering,mervat.abuelkheir@guc.edu.eg,ETL Pipeline Design,"etl, pipeline, ingestion, transformation, loading",Machine Learning and Deep Learning,Data ETL Pipeline
+Data Engineering,mervat.abuelkheir@guc.edu.eg,Data Warehouse and Lakes,"warehouse, lake, schema, modeling, sql",Warehouse and Data Modeling,Warehouse and Data Modeling
+Data Engineering,mervat.abuelkheir@guc.edu.eg,Real-Time Stream Processing,"stream, processing, real-time, kafka, flink",Machine Learning and Deep Learning,Real-Time Stream Processing
+Data Engineering,mervat.abuelkheir@guc.edu.eg,Big Data Ecosystems,"hadoop, spark, distributed, storage, processing",Natural Language Processing and Machine Learning,Machine Learning and Algorithms
+Data Engineering,mervat.abuelkheir@guc.edu.eg,Data Quality & Governance,"governance, quality, metadata, lineage, compliance",Data Governance and Quality,Data Governance and Quality
+Data Engineering,mervat.abuelkheir@guc.edu.eg,Workflow Orchestration,"monitoring, automation, airflow, orchestration, scheduling",Climate Change and Monitoring,Machine Learning and Predictive Analytics
+Data Engineering,mervat.abuelkheir@guc.edu.eg,Database Systems,"nosql, relational, database, tuning, optimization",NoSQL vs Relational Database Tuning and Optimization,NoSQL vs Relational Database Management Systems
+Data Analytics,mervat.abuelkheir@guc.edu.eg,Data Visualization & Reporting,"visualization, dashboard, reporting, charts, insight",Machine Learning and AI,Data Visualization and Reporting
+Data Analytics,mervat.abuelkheir@guc.edu.eg,Predictive Modeling Techniques,"regression, classification, clustering, prediction, learning",Machine Learning Methods,Machine Learning Techniques
+Data Analytics,mervat.abuelkheir@guc.edu.eg,Data Preprocessing and Quality,"cleaning, wrangling, transform, imputation, quality",Data Cleaning and Preparation,Machine Learning Models and Algorithms
+Data Analytics,mervat.abuelkheir@guc.edu.eg,Data Query and Storage,"sql, database, query, storage, warehousing",SQL and Database Management,SQL and Database Querying
+Data Analytics,mervat.abuelkheir@guc.edu.eg,Statistical Analysis and Inference,"statistics, inference, testing, probability, sampling",Machine Learning and Algorithms,Statistical Inference and Data Analysis
+Data Analytics,mervat.abuelkheir@guc.edu.eg,Business Intelligence and KPIs,"business, metrics, kpi, strategy, performance",Innovation and Research Development,Business Metrics and Analytics
+Data Analytics,mervat.abuelkheir@guc.edu.eg,Time Series Forecasting,"time, series, forecasting, trending, seasonal",Economic Time Series Analysis,Time Series Forecasting
+Edge Computing,mervat.abuelkheir@guc.edu.eg,Computation Offloading & Resource Allocation,"offloading, computation, latency, mobile, resource",Edge Computing Offloading and Computation,Edge Computing Offloading and Computation
+Edge Computing,mervat.abuelkheir@guc.edu.eg,Federated Learning at the Edge,"federated, learning, privacy, distributed, model",Deep Learning for Optimization,Machine Learning for Natural Language Processing
+Edge Computing,mervat.abuelkheir@guc.edu.eg,Edge Caching and Content Delivery,"caching, content, delivery, proximity, storage",Edge Caching and Content Delivery,Edge Caching and Content Delivery
+Edge Computing,mervat.abuelkheir@guc.edu.eg,Fog-Cloud Continuum Management,"fog, cloud, hierarchy, interoperability, management",Edge Computing Fog and Hierarchy Management,Big Data Storage and Management
+Edge Computing,mervat.abuelkheir@guc.edu.eg,Security and Trust in Edge,"security, intrusion, authentication, protection, trust",Security and Edge Intrusion Detection,AI in Healthcare
+Edge Computing,mervat.abuelkheir@guc.edu.eg,IoT Device Integration,"iot, sensors, devices, connectivity, gateway",Edge IoT Connectivity and Devices,Edge IoT and Edge Computing
+Edge Computing,mervat.abuelkheir@guc.edu.eg,Real-time Edge Data Analytics,"realtime, analytics, processing, stream, data",Realtime Data Analytics and Processing,Realtime Data Analytics and Processing
+Digital Twin,eman.azab@guc.edu.eg,Real-time Cyber-Physical Modeling,"modeling, simulation, physical, cyber, real-time",Machine Learning and AI for Robotics,Digital Twin Modeling and Simulation
+Digital Twin,eman.azab@guc.edu.eg,Data-Driven Twin Analytics,"data, acquisition, sensors, integration, analytics",AI Machine Learning and Optimization,Machine Learning and AI for Autonomous Systems
+Digital Twin,eman.azab@guc.edu.eg,Industrial IoT Optimization,"industrial, iot, manufacturing, operations, optimization",AI and Machine Learning in Supply Chain,Digital Twin for Industrial Operations
+Digital Twin,eman.azab@guc.edu.eg,Predictive Maintenance and Health,"prediction, maintenance, failure, health, prognostics",Predictive Maintenance and Health Monitoring,Digital Twin Predictive Maintenance
+Digital Twin,eman.azab@guc.edu.eg,AR/VR Twin Visualization,"augmented, virtual, reality, visualization, interaction",Augmented and Virtual Reality for Digital Twin Visualization,Augmented and Virtual Reality for Digital Twins
+Digital Twin,eman.azab@guc.edu.eg,Complex System Architecture,"systems, complex, interoperability, architecture, platforms",Digital Twin Systems Architecture,Machine Learning and Healthcare Analytics
+Digital Twin,eman.azab@guc.edu.eg,Autonomous Closed-Loop Control,"control, closed-loop, feedback, autonomous, management",Control and Autonomous Management in Digital Twins,Digital Twin Control and Management
+Analog Electronics,eman.azab@guc.edu.eg,Operational Amplifier Design,"amplifier, opamp, feedback, gain, bandwidth",Analog Amplifier Design and Theory,Analog Amplifier Design
+Analog Electronics,eman.azab@guc.edu.eg,Analog Device Modeling,"transistor, mosfet, bjt, device, modeling",Device Modeling and Transistors,Device Modeling and Transistors
+Analog Electronics,eman.azab@guc.edu.eg,Analog-to-Digital Conversion,"converter, digital, sampling, resolution, noise",Machine Learning Algorithms,Digital Signal Conversion
+Analog Electronics,eman.azab@guc.edu.eg,Analog Filter Circuits,"filter, active, passive, frequency, signal",Active and Passive Filter Design,Filter Design and Analysis
+Analog Electronics,eman.azab@guc.edu.eg,RF and Wireless Circuits,"radio, frequency, wireless, microwave, lna",RF and Microwave Analog Electronics,RF and Wireless Analog Electronics
+Analog Electronics,eman.azab@guc.edu.eg,Analog Power Management,"power, supply, regulator, efficiency, management",Renewable Energy and Sustainability,
+Analog Electronics,eman.azab@guc.edu.eg,Integrated Circuit Design,"integrated, circuit, design, layout, verification",Integrated Circuit Design and Verification,Integrated Circuit Design and Verification
+Electronic Circuits Design Automation,eman.azab@guc.edu.eg,Logic Synthesis and Optimization,"synthesis, logic, rtl, timing, optimization",Synthesis and Timing Optimization for Electronics,Synthesis and Circuit Optimization
+Electronic Circuits Design Automation,eman.azab@guc.edu.eg,Physical Design Automation,"place, route, layout, geometry, physical",Circuit Layout and Geometry Design,Circuit Layout Design
+Electronic Circuits Design Automation,eman.azab@guc.edu.eg,Formal Verification Methods,"verification, formal, equivalence, assertion, functional",Formal Verification in Electronic Circuits Design,Formal Verification in Electronic Circuits
+Electronic Circuits Design Automation,eman.azab@guc.edu.eg,Low Power Design Optimization,"power, low, optimization, analysis, clock",Low-Power Circuit Optimization,Low-Power Optimization in Electronic Circuits
+Electronic Circuits Design Automation,eman.azab@guc.edu.eg,Circuit Simulation Techniques,"simulation, circuit, spice, transistor, modeling",Circuit Simulation and Modeling,Circuit Simulation and Modeling
+Electronic Circuits Design Automation,eman.azab@guc.edu.eg,Design for Testability,"testing, testability, fault, design, coverage",Testability and Design for Circuits Testing,Test Design and Testability
+Electronic Circuits Design Automation,eman.azab@guc.edu.eg,AI in EDA,"machine, learning, ai, bayes, reinforcement",Machine Learning in Signal Processing,Machine Learning for Electronic Circuits Design
+Industry 4.0,eman.azab@guc.edu.eg,Industrial IoT & Sensors,"internet, things, iiot, sensors, connectivity",Internet of Things (IoT) in Industry 4.0,Internet of Things (IoT) in Industry 4.0
+Industry 4.0,eman.azab@guc.edu.eg,Smart Factory Automation,"smart, factory, manufacturing, automation, systems",Smart Manufacturing and Industry 4.0,Smart Manufacturing Systems
+Industry 4.0,eman.azab@guc.edu.eg,Digital Twin Modeling,"digital, twin, modeling, simulation, physical",Digital Twin Modeling and Simulation,Digital Twin Modeling and Simulation
+Industry 4.0,eman.azab@guc.edu.eg,Industrial Cybersecurity Threats,"cybersecurity, threats, industrial, networks, protection",Cybersecurity in Industrial Networks,Data Analytics and Healthcare
+Industry 4.0,eman.azab@guc.edu.eg,Big Data Analytics,"big, data, analytics, real-time, optimization",Big Data Analytics for Industry 4.0,Big Data Analytics for Industry 4.0
+Industry 4.0,eman.azab@guc.edu.eg,AI Predictive Maintenance,"ai, machine, learning, predictive, maintenance",Deep Learning for Autonomous Systems,Robotics and Automation in Manufacturing
+Industry 4.0,eman.azab@guc.edu.eg,Cloud and Edge Computing,"cloud, edge, computing, decentralized, processing",Cloud and Edge Computing for Industry 4.0,Cloud and Edge Computing for Industry 4.0
+Sensors,eman.azab@guc.edu.eg,Chemical and Gas Sensing,"chemical, gas, detection, surface, selectivity",Chemical Gas Detection Sensors,Chemical Gas Detection Sensors
+Sensors,eman.azab@guc.edu.eg,Sensor Materials and Transducers,"piezoelectric, capacitive, memristor, transducer, nanomaterials",Advanced Sensor Technologies,Advanced Machine Learning Techniques
+Sensors,eman.azab@guc.edu.eg,Wireless Sensor Networks,"wireless, network, iot, communication, node",Wireless Sensor Networks,Energy-Efficient Wireless Networks
+Sensors,eman.azab@guc.edu.eg,Biosensing and Bioelectronics,"microfluidics, biological, biomarker, detection, immunosensor",Microfluidic Biosensors and Detection,Microfluidic Biosensors and Detection
+Sensors,eman.azab@guc.edu.eg,Sensor Characterization and Metrology,"calibration, noise, accuracy, drift, linearity",Machine Learning and Data Analysis,Sensor Calibration and Accuracy
+Sensors,eman.azab@guc.edu.eg,Remote Sensing Technologies,"remote, imaging, lidar, radar, satellite",Remote Sensing Sensors,Machine Learning and AI
+Sensors,eman.azab@guc.edu.eg,Wearable and Flexible Sensors,"wearable, implantable, flexible, integrated, monitoring",Machine Learning and Manufacturing,Wearable and Implantable Sensors
+Artificial Intelligence,maggie.ezzat@guc.edu.eg,Deep Learning Architectures,"neural, networks, deep, learning, model",Neural Network Deep Learning,Deep Neural Networks and Learning
+Artificial Intelligence,maggie.ezzat@guc.edu.eg,AI Ethics and Governance,"data, privacy, ethics, bias, fairness",AI Ethics and Data Privacy,AI Ethics and Data Privacy
+Artificial Intelligence,maggie.ezzat@guc.edu.eg,Reinforcement Learning,"reinforcement, agent, environment, reward, policy",Machine Learning and Algorithms,Reinforcement Learning for Agents
+Artificial Intelligence,maggie.ezzat@guc.edu.eg,Natural Language Processing,"language, natural, processing, translation, sentiment",Natural Language Processing,Natural Language Processing
+Artificial Intelligence,maggie.ezzat@guc.edu.eg,Computer Vision Techniques,"vision, image, recognition, detection, segmentation",Machine Learning and Artificial Intelligence,Computer Vision and Image Analysis
+Artificial Intelligence,maggie.ezzat@guc.edu.eg,Generative AI Models,"generative, adversarial, gan, creation, synthetic",Generative AI and Models,Machine Learning and Computer Vision
+Artificial Intelligence,maggie.ezzat@guc.edu.eg,Explainable AI (XAI),"explainable, xai, interpretability, transparency, feature",Explainable AI and Interpretability,Explainable AI and Interpretability
+Cybersecurity,maggie.ezzat@guc.edu.eg,Intrusion Detection Systems,"intrusion, detection, anomaly, network, system",Intrusion Detection and Network Security,Intrusion Detection and Network Security
+Cybersecurity,maggie.ezzat@guc.edu.eg,Malware Analysis and Detection,"malware, analysis, reverse, engineering, sandbox",Malware Analysis and Reverse Engineering,Malware Analysis and Reverse Engineering
+Cybersecurity,maggie.ezzat@guc.edu.eg,Advanced Cryptography Techniques,"encryption, decryption, algorithm, cryptography, key",Cryptographic Algorithms and Security,Cryptographic Algorithms and Security
+Cybersecurity,maggie.ezzat@guc.edu.eg,Social Engineering & Phishing,"phishing, social, engineering, user, awareness",Phishing and Social Engineering Awareness,Cybersecurity Threat Detection and Response
+Cybersecurity,maggie.ezzat@guc.edu.eg,Secure Access Control,"access, control, authentication, authorization, identity",Access Control and Identity Management,Access Control and Identity Management
+Cybersecurity,maggie.ezzat@guc.edu.eg,IoT Security Protocols,"iot, device, protocol, security, firmware",IoT Device Security and Protocols,Machine Learning and Data Science
+Cybersecurity,maggie.ezzat@guc.edu.eg,Blockchain Security Applications,"blockchain, ledger, decentralized, smart, contract",Machine Learning in Healthcare,Machine Learning in Healthcare
+Cloud Computing,maggie.ezzat@guc.edu.eg,Cloud Data Security,"security, encryption, privacy, access, authentication",Cloud Security and Privacy,Information Security and Privacy
+Cloud Computing,maggie.ezzat@guc.edu.eg,Cloud Infrastructure Management,"virtualization, servers, data, centers, infrastructure",Machine Learning and Data Analysis,Machine Learning and AI
+Cloud Computing,maggie.ezzat@guc.edu.eg,Cloud Resource Management,"resource, allocation, scheduling, load, balancing",Genomic Sequence Analysis and Annotation,Resource Allocation and Scheduling in Cloud Computing
+Cloud Computing,maggie.ezzat@guc.edu.eg,Edge and Cloud Integration,"edge, computing, latency, fog, devices",Machine Learning and Vision,Machine Learning and AI
+Cloud Computing,maggie.ezzat@guc.edu.eg,AI/ML in Cloud,"ai, machine, learning, data, analytics",Healthcare AI and Data,AI and Machine Learning in Cloud Computing
+Cloud Computing,maggie.ezzat@guc.edu.eg,Cloud-Native Architectures,"containerization, kubernetes, docker, orchestration, serverless",Containerization and Cloud Orchestration,Container Orchestration and Cloud
+Cloud Computing,maggie.ezzat@guc.edu.eg,Green Cloud Computing,"green, energy, efficiency, sustainable, power",Green Cloud Computing,Green Cloud Computing
+Data Science,maggie.ezzat@guc.edu.eg,Core Machine Learning,"machine, learning, model, algorithm, prediction",Machine Learning and Modeling,Natural Language Processing
+Data Science,maggie.ezzat@guc.edu.eg,Big Data Technologies,"big, data, processing, scale, storage",Big Data Processing and Storage,Machine Learning Algorithms and Neural Networks
+Data Science,maggie.ezzat@guc.edu.eg,Data Preprocessing Techniques,"data, cleaning, wrangling, prep, imputation",Machine Learning Algorithms,Machine Learning Algorithms
+Data Science,maggie.ezzat@guc.edu.eg,Data Visualization & Insight,"visualization, dashboard, charts, insight, storytelling",Data Visualization and Storytelling,Machine Learning and AI
+Data Science,maggie.ezzat@guc.edu.eg,Statistical Inference,"statistics, inference, hypothesis, test, probability",Statistical Inference and Data Analysis,Statistical Inference and Data Analysis
+Data Science,maggie.ezzat@guc.edu.eg,Deep Learning Models,"neural, networks, deep, training, architecture",Neural Network Architecture and Deep Learning,Neural Network Architecture and Training
+Data Science,maggie.ezzat@guc.edu.eg,Natural Language Processing,"natural, language, text, sentiment, nlp",Natural Language Processing (NLP),Natural Language Analysis
+Computer Engineering,maggie.ezzat@guc.edu.eg,Computer Hardware Architecture,"processor, memory, cache, bus, architecture",Computer Architecture and Design,Machine Learning and Algorithms
+Computer Engineering,maggie.ezzat@guc.edu.eg,Digital Logic Circuit Design,"gate, circuit, digital, design, logic",Digital Circuit Design,Digital Circuit Design
+Computer Engineering,maggie.ezzat@guc.edu.eg,Embedded Systems and Firmware,"embedded, system, firmware, microcontroller, realtime",Embedded Systems Design and Development,Embedded Systems Development
+Computer Engineering,maggie.ezzat@guc.edu.eg,Computer Networks and Protocols,"network, protocol, wireless, routing, internet",Network Protocols and Wireless Networking,Machine Learning and Artificial Intelligence
+Computer Engineering,maggie.ezzat@guc.edu.eg,Machine Learning in CE,"learning, algorithm, data, neural, intelligence",Machine Learning Algorithms and Data,Algorithmic Learning and Artificial Intelligence
+Computer Engineering,maggie.ezzat@guc.edu.eg,Operating System Kernels,"operating, kernel, resource, scheduling, system",Operating System Kernel Design,Operating System Architecture and Design
+Computer Engineering,maggie.ezzat@guc.edu.eg,Advanced CPU Design,"pipeline, risc, isa, cpu, performance",Pipeline and RISC CPU Architecture,Pipeline and RISC CPU Design

@@ -1,0 +1,68 @@
+topic_words,topic_label,predicted_label_small,predicted_label_base,predicted_label_large
+"model, language, task, training, tuning, pre, fine, data",Machine Learning Models,Model Language Training,Model Language Training,Data Mining Techniques
+"model, network, training, learning, data, neural, deep, feature",Deep Neural Networks,Model Network Training,Deep Learning,Deep Neural Networks
+"problem, algorithm, optimization, objective, solution, search, evolutionary, function",Optimization Algorithms,Problem Optimization,Optimization Algorithms,Optimization Algorithms
+"model, method, learning, algorithm, data, problem, distribution, function",Learning Methods,Model Learning Methods,Model Learning Algorithms,Model-Based Learning
+"text, word, document, sentence, based, model, method, classification",Text Classification,"Text, Word, Document, Methods",Text-Based Classification,Text-Based Classification
+"image, data, model, learning, using, based, deep, detection",Image Processing,Image Detection,Deep Learning,Deep Image Learning
+"network, neural, model, learning, training, method, architecture, based",Neural Network Architecture,Network Learning Models,Neural Networks,Neural Networks (NNNs)
+"series, time, forecasting, multivariate, model, data, datasets, temporal",Time Series Forecasting,Time Forecasting,Time Series Forecasting,Multivariate Forecasting
+"model, data, human, machine, learning, research, explanation, based",Human-Machine Learning,Model Data Learning,Machine Learning,Human Machine Learning
+"agent, game, environment, task, human, learning, multi, reinforcement",Reinforcement Learning,Multi-Agent Learning,Multi-Agent Learning,Multi-Agent Systems
+"graph, data, learning, model, method, task, feature, domain",Graph Learning,Graph Data Learning,Data Learning Models,Graph Data Learning
+"llm, reasoning, question, large, language, model, human, evaluation",Large Language Models,Language Models,Large-Language Models,Human Reasoning Models
+"method, point, view, pose, scene, based, estimation, image",Scene Estimation,Methods,Method Based Image Estimation,Image Processing Techniques
+"policy, offline, learning, reinforcement, reward, action, state, value",Reinforcement Policy,Politique Offline Learning,Learning Reinforcement Systems,Offline Reinforcement Learning
+"regret, bandit, bound, algorithm, arm, reward, optimal, setting",Bandit Algorithms,Algorithms,Reward Algorithms,Regret Algorithms
+"object, model, task, detection, visual, learning, vision, performance",Object Detection,Object Modeling,Visual Learning,Visual Processing Systems
+"model, network, prediction, traffic, data, neural, graph, temporal",Traffic Prediction,Model Networks,Neural Networks,Neural Networks (NANs)
+"anomaly, detection, data, unsupervised, method, normal, detecting, anomalous",Anomaly Detection,Anomalie,Anomaly Detection Methods,Anomaly Detection Systems
+"image, model, text, domain, method, data, training, task",Cross-Domain Learning,Image Modeling,Model Training,Data Mining and Machine Learning
+"entity, knowledge, graph, relation, information, question, kg, extraction",Knowledge Graphs,Information Processing,Knowledge Graphs,Knowledge Graphs
+"feature, method, image, network, based, learning, attention, video",Attention-Based Learning,Feature Methods,Video Based Learning,Image-Based Learning
+"client, federated, fl, data, model, learning, local, privacy",Federated Learning,Client federated Learning,Local Data Modelling,Federated Learning Systems
+"translation, language, machine, multilingual, resource, english, lingual, low",Machine Translation,Multilingual Languages,Multilingual Machine Translation,Multilingual Machine Translation
+"dialogue, response, conversation, oriented, user, utterance, generation, turn",Dialogue Generation,Dialog Reactions,User Oriented Dialogues,Dialog-Oriented User Interfaces
+"gradient, stochastic, method, convergence, optimization, convex, rate, descent",Gradient Optimization,Convex Methods,Convex Optimization,Convex Optimization
+"model, sparse, data, estimator, high, estimation, dimensional, algorithm",Sparse Estimation,Model Data Analysis,Estimation Algorithms,Model Sparse Data Estimation
+"clustering, cluster, graph, algorithm, problem, data, spectral, result",Graph Clustering,Clustering,Clustering Algorithms,Clustering Algorithms
+"model, inference, process, algorithm, method, data, time, network",Inference Methods,Model Inferences,Modeling Algorithms,Data Mining and Algorithms
+"matrix, rank, low, tensor, completion, norm, problem, entry",Matrix Completion,Matrix Classifications,Matrix Optimization,Matrix Completion Problems
+"model, image, latent, natural, generative, variable, network, inference",Generative Models,Modeling,Natural Generative Networks,Natural Neural Networks (NNNs)
+"regret, online, loss, algorithm, convex, optimization, bound, rate",Online Optimization,Algorithms,Online Loss Algorithms,Online Remort Optimization
+"feature, model, data, selection, method, sparse, variable, algorithm",Feature Selection,Feature Modeling,Model Selection Techniques,Sparse Data Selection
+"algorithm, search, time, tree, problem, space, result, polynomial",Algorithm Complexity,Algorithms,Algorithms and Time Trees,Search Algorithms
+"software, developer, build, project, library, documentation, repository, data",Software Development,Software Developers,Software DevOps,Software Development and Repository Design
+"project, developer, source, open, software, community, contributor, ecosystem",Open Source Ecosystem,Project Developers,Open Source Software,Open Source Software
+"defect, prediction, model, metric, data, project, software, performance",Defect Prediction Model,Defect Models,Defect Prediction Models,Software Engineering Metrics
+"model, data, based, method, using, time, elsevier, study",Data Modeling Methods,Model Data Analysis,Data Based Methodology,Model Data Based Methods
+"data, big, processing, analytics, privacy, stream, structure, storage",Big Data Analytics,Data Processing,Big Data Processing,Big Data Analytics
+"water, model, management, change, climate, elsevier, impact, decision",Water Management Models,Water Models,Water Management Models,Water Modeling
+"model, based, modelling, simulation, process, elsevier, analysis, study",Process Simulation,Model Based Modeling,Model Based Modelling,Model-Based Simulation
+"model, based, approach, modeling, verification, checking, property, language",Model Verification,Model Based Methodology,Model Based Approaches,Model-Based Verification
+"algorithm, time, network, problem, data, based, proposed, sensor",Network Algorithms,Algorithms,Time-Based Algorithms,Algorithmic Sensor Networks
+"proof, logic, calculus, separation, order, semantics, theory, relation",Logic And Proof,ProofLogic Calculus,Logical Calculus,Proof Theory
+"software, safety, requirement, development, engineering, research, automotive, study",Software Safety Engineering,Software Engineering,Software Engineering,Software Requirement Engineering
+"race, memory, data, event, bug, concurrency, concurrent, detection",Concurrency Bugs,Race Memory Data Analysis,Concurrency Detection,Concurrency and Memory Management
+"analysis, static, flow, program, graph, precision, code, dynamic",Static Code Analysis,Analyse,Static Programming,Static Analysis
+"model, learning, deep, network, neural, training, machine, method",Deep Learning Models,Model Learning,Deep Networked Learning,Deep Neural Networks
+"test, testing, autonomous, driving, performance, input, scenario, case",Autonomous Testing,Test-Testing,Test Driven Driving,Autonomous Driving Systems
+"model, checking, verification, property, formal, software, based, checker",Formal Model Checking,Model Checking,Software Based Verification,Software-Based Verification
+"apps, app, user, mobile, permission, developer, issue, analysis",Mobile App Analysis,Apps,Apps and Mobile Devices,Mobile App Permissions
+"symbolic, execution, path, program, input, coverage, engine, constraint",Symbolic Execution,Symbolic Execution,Symbolic Execution,Symbolic Execution
+"program, invariant, verification, loop, technique, termination, approach, property",Program Verification,Program Invariant Methods,Programming Invariant Verification,Program Invariant Verification
+"fault, localization, technique, failure, program, debugging, based, spectrum",Fault Localization,Debugging,Program Debugging Techniques,Fault-Based Programming
+"language, programming, code, semantics, compiler, specification, transformation, implementation",Programming Languages,Language Programming,Language Programming,Programming Language Semantics
+"algorithm, synthesis, automaton, constraint, problem, solver, specification, state",Algorithm Synthesis,Algorithms,Algorithm Synthesis,Automated Problem Solving
+"model, process, transformation, modeling, language, approach, business, tool",Business Process Modeling,Model Transformation,Business Modeling,Modeling and Transformation
+"mobile, device, edge, network, user, application, computing, offloading",Edge Computing,Mobile Devices,Mobile Device Computing,Mobile Device Computing
+"graph, vertex, path, edge, query, processing, time, network",Graph Processing,Diagramm Processing,Network Processing Techniques,Graph Processing
+"mutant, mutation, operator, equivalent, testing, program, analysis, suite",Mutation Testing,Mutant Technologies,Mutant Mutation Operators,Mutant Molecular Testing
+"quantum, circuit, computer, program, computing, software, classical, qubits",Quantum Computing,Quantum Computer Programming,Quantum Computing,Quantum Computing
+"type, typing, typed, gradual, session, inference, refinement, function",Type Systems,Typing,Typed Inference,Typing Algorithms
+"problem, constraint, solution, solver, instance, programming, relaxation, integer",Constraint Solving,Problem Restrictions,Problem Solving Techniques,Problem Solving Algorithms
+"smell, code, design, detection, bad, study, class, test",Code Smells,Germination Code Design,Bad Smell Code Design,Bad Software Design
+"optimization, design, topology, objective, structural, problem, proposed, based",Structural Optimization,Optimization Design,Optimization Design,Optimization Theory and Design
+"model, analysis, simulation, structure, material, method, data, element",Material Simulation,Model Analysis,Model Analysis and Simulation,Modeling and Simulation
+"vulnerability, security, attack, code, analysis, vulnerable, secure, detection",Security Vulnerabilities,Security Attacks,Security Analysis Techniques,Vulnerability Analysis and Security
+"mesh, element, finite, boundary, domain, method, surface, grid",Finite Element Method,Mesh-Elements,Finite Element Geometry,Finite Element Methods

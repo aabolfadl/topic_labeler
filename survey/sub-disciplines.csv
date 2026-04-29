@@ -1,0 +1,233 @@
+faculty,sub_discipline,research_field
+MET,Computer Science,Theory of Computation
+MET,Computer Science,Algorithms and Data Structures
+MET,Computer Science,Programming Language Theory (PLT)
+MET,Computer Science,Computer Architecture
+MET,Computer Science,Operating Systems
+MET,Computer Science,Networking and Communication
+MET,Computer Science,Concurrent, Parallel, and Distributed Systems
+MET,Computer Science,Software Engineering
+MET,Computer Science,Machine Learning
+MET,Computer Science,Natural Language Processing
+MET,Computer Science,Data Science
+MET,Computer Science,Human-Computer Interaction
+MET,Computer Science,Cybersecurity
+MET,Computer Science,Bioinformatics
+MET,Computer Engineering,Microprocessors & Microcontrollers
+MET,Computer Engineering,VLSI (Very-Large-Scale Integration) Design
+MET,Computer Engineering,Digital Logic and Digital Systems Design
+MET,Computer Engineering,Cyber-Physical Systems
+MET,Computer Engineering,Compilers
+MET,Digital Media Engineering,Virtual and Augmented Reality
+MET,Digital Media Engineering,Game Engineering and Technology
+MET,Digital Media Engineering,Interaction Design
+MET,Digital Media Engineering,Digital Signal Processing
+MET,Digital Media Engineering,Audio-Visual Systems Engineering
+MET,Digital Media Engineering,Computer Graphics
+IET,Networks Engineering,Routing and Switching
+IET,Networks Engineering,Network Design and Architecture
+IET,Networks Engineering,Wired and Wireless Networks
+IET,Networks Engineering,Cloud Networking
+IET,Networks Engineering,Software-Defined Networking (SDN)
+IET,Networks Engineering,Network Virtualization
+IET,Networks Engineering,Network Automation and Programmability
+IET,Networks Engineering,Network Security Engineering
+IET,Networks Engineering,Network Performance and Optimization
+IET,Networks Engineering,Network Monitoring and Analysis
+IET,Communications Engineering,Mobile and Cellular Networks
+IET,Communications Engineering,Radio Frequency (RF) Engineering
+IET,Communications Engineering,Antennas and Wave Propagation
+IET,Communications Engineering,Satellite Communication
+IET,Communications Engineering,Digital Signal Processing (DSP)
+IET,Communications Engineering,Information Theory and Coding
+IET,Communications Engineering,Modulation and Demodulation
+IET,Communications Engineering,Optical Communication Engineering
+IET,Communications Engineering,Network Engineering and Architectures
+IET,Communications Engineering,High-Speed Communication (Broadband)
+IET,Electronics Engineering,VLSI (Very-Large-Scale Integration) Design
+IET,Electronics Engineering,Analog Electronics
+IET,Electronics Engineering,Digital Electronics
+IET,Electronics Engineering,Nanoelectronics
+IET,Electronics Engineering,Telecommunications Engineering
+IET,Electronics Engineering,RF (Radio Frequency) and Microwave Engineering
+IET,Electronics Engineering,Electromagnetics
+IET,Electronics Engineering,Optical Communication
+IET,Electronics Engineering,Digital Signal Processing
+EMS,Materials Engineering,Metallurgy
+EMS,Materials Engineering,Ceramic Engineering
+EMS,Materials Engineering,Polymer Science and Engineering
+EMS,Materials Engineering,Composite Materials
+EMS,Materials Engineering,Semiconductors
+EMS,Materials Engineering,Magnetic Materials
+EMS,Materials Engineering,Photonic Materials
+EMS,Materials Engineering,Nanomaterials and Nanotechnology
+EMS,Materials Engineering,Biomaterials and Biomedical Engineering
+EMS,Materials Engineering,Computational Materials Science and Materials Informatics
+EMS,Materials Engineering,Materials for Energy and the Environment
+EMS,Materials Engineering,Surface Engineering and Characterization
+EMS,Design & Production Engineering,Industrial Design
+EMS,Design & Production Engineering,Computer-Aided Engineering
+EMS,Design & Production Engineering,Design for X (DFX)
+EMS,Design & Production Engineering,Materials Selection and Failure Analysis
+EMS,Design & Production Engineering,Machining and Forming
+EMS,Design & Production Engineering,Additive Manufacturing
+EMS,Design & Production Engineering,Tool and Die Design
+EMS,Design & Production Engineering,Joining and Assembly
+EMS,Design & Production Engineering,Industrial Automation and Robotics
+EMS,Design & Production Engineering,Quality Engineering
+EMS,Design & Production Engineering,Lean and Digital Manufacturing (Industry 4.0)
+EMS,Design & Production Engineering,Supply Chain and Logistics
+EMS,Civil Engineering,Structural Engineering
+EMS,Civil Engineering,Geotechnical Engineering
+EMS,Civil Engineering,Materials Engineering
+EMS,Civil Engineering,Transportation Engineering
+EMS,Civil Engineering,Water Resources Engineering
+EMS,Civil Engineering,Environmental Engineering
+EMS,Civil Engineering,Municipal or Urban Engineering
+EMS,Civil Engineering,Construction Engineering and Management
+EMS,Civil Engineering,Coastal Engineering
+EMS,Civil Engineering,Surveying (Geomatics)
+EMS,Architecture Engineering,Structural Analysis and Design
+EMS,Architecture Engineering,Foundation Engineering (Geotechnical Link)
+EMS,Architecture Engineering,Materials Science
+EMS,Architecture Engineering,HVAC (Heating, Ventilation, and Air Conditioning) Engineering
+EMS,Architecture Engineering,Building Energy Modeling and Sustainability
+EMS,Architecture Engineering,Acoustical Engineering
+EMS,Architecture Engineering,Lighting Systems Design (Illumination Engineering)
+EMS,Architecture Engineering,Power Distribution
+EMS,Architecture Engineering,Fire Protection Engineering
+EMS,Architecture Engineering,Construction Methods and Estimating
+EMS,Architecture Engineering,Building Information Modeling (BIM)
+EMS,Mechatronics Engineering,Control Systems Engineering
+EMS,Mechatronics Engineering,Mechanical Design and Dynamics
+EMS,Mechatronics Engineering,Electronic and Electrical Systems
+EMS,Mechatronics Engineering,Embedded Systems
+EMS,Mechatronics Engineering,Robotics and Automation
+EMS,Mechatronics Engineering,Smart Products and Devices
+EMS,Mechatronics Engineering,Industrial Control and Process Management
+EMS,Mechatronics Engineering,Biomedical and Healthcare Devices
+PBT,Pharmacy,Industrial Pharmacy (Pharmaceutics)
+PBT,Pharmacy,Pharmaceutical Chemistry
+PBT,Pharmacy,Regulatory Affairs
+PBT,Pharmacy,Pharmacovigilance
+PBT,Pharmacy,Clinical Trials
+PBT,Pharmacy,Medical Science Liaison
+PBT,Pharmacy,Managed Care Pharmacy
+PBT,Pharmacy,Pharmacy Informatics
+PBT,Biotechnology,Medical Biotechnology
+PBT,Biotechnology,Agricultural Biotechnology
+PBT,Biotechnology,Industrial Biotechnology
+PBT,Biotechnology,Environmental Biotechnology
+PBT,Biotechnology,Marine Biotechnology
+PBT,Biotechnology,Food Biotechnology
+PBT,Biotechnology,Genetic Engineering
+PBT,Biotechnology,Bioinformatics
+PBT,Biotechnology,Bioprocessing/Biomanufacturing
+PBT,Biotechnology,Nanobiotechnology
+PBT,Biotechnology,Forensic Biotechnology
+PBT,Clinical Pharmacy,Pharmacotherapy
+PBT,Clinical Pharmacy,Ambulatory Care
+PBT,Clinical Pharmacy,Critical Care
+PBT,Clinical Pharmacy,Emergency Medicine
+PBT,Clinical Pharmacy,Cardiology Pharmacy
+PBT,Clinical Pharmacy,Infectious Diseases
+PBT,Clinical Pharmacy,Oncology Pharmacy
+PBT,Clinical Pharmacy,Psychiatric Pharmacy
+PBT,Clinical Pharmacy,Pediatric Pharmacy
+PBT,Clinical Pharmacy,Geriatric Pharmacy
+PBT,Clinical Pharmacy,Transplant Pharmacy
+PBT,Clinical Pharmacy,Nutrition Support Pharmacy
+PBT,Clinical Pharmacy,Nuclear Pharmacy
+PBT,Clinical Pharmacy,Pain Management and Palliative Care
+PBT,Clinical Pharmacy,Pharmacogenomics
+MGT,Finance,Corporate Finance
+MGT,Finance,Investments / Asset Management
+MGT,Finance,Personal Finance
+MGT,Finance,Public Finance
+MGT,Finance,Investment Banking
+MGT,Finance,Commercial Banking
+MGT,Finance,Real Estate Finance
+MGT,Finance,Risk Management
+MGT,Finance,Financial Engineering / Quantitative Finance
+MGT,Finance,Actuarial Science
+MGT,Finance,Financial Technology (FinTech)
+MGT,Finance,Behavioral Finance
+MGT,Finance,International/Global Finance
+MGT,Accounting,Financial Accounting
+MGT,Accounting,Management Accounting
+MGT,Accounting,Cost Accounting
+MGT,Accounting,Tax Accounting
+MGT,Accounting,Auditing
+MGT,Accounting,Forensic Accounting
+MGT,Accounting,Governmental/Public Sector Accounting
+MGT,Accounting,Non-Profit/Fund Accounting
+MGT,Accounting,Accounting Information Systems (AIS)
+MGT,Economics,Microeconomics
+MGT,Economics,Macroeconomics
+MGT,HR,Talent Acquisition & Staffing
+MGT,HR,Compensation and Benefits
+MGT,HR,Training and Development
+MGT,HR,Performance Management
+MGT,HR,Employee & Labor Relations
+MGT,HR,HR Compliance and Risk Management
+MGT,HR,HR Technology & Analytics (HRIS)
+MGT,Organizational Behaviour,Motivation
+MGT,Organizational Behaviour,Perception and Attribution
+MGT,Organizational Behaviour,Personality and Attitudes
+MGT,Organizational Behaviour,Leadership and Power
+MGT,Organizational Behaviour,Group Dynamics and Teamwork
+MGT,Organizational Behaviour,Communication
+MGT,Organizational Behaviour,Organizational Culture
+MGT,Organizational Behaviour,Organizational Structure and Design
+MGT,Organizational Behaviour,Organizational Change and Development
+MGT,Organizational Behaviour,Cross-Cultural/Global OB (Anthropology)
+MGT,Marketing,Market Research
+MGT,Marketing,Product Marketing
+MGT,Marketing,Brand Management
+MGT,Marketing,Pricing
+MGT,Marketing,Customer Relationship Management (CRM)
+MGT,Marketing,Digital Marketing
+MGT,Marketing,Traditional Marketing & Public Relations
+MGT,Operations,Process Design and Analysis
+MGT,Operations,Product/Service Design
+MGT,Operations,Operations Strategy
+MGT,Operations,Supply Chain Management (SCM)
+MGT,Operations,Inventory Management
+MGT,Operations,Logistics and Distribution
+MGT,Operations,Procurement/Sourcing
+MGT,Operations,Quality Management (QM)
+MGT,Operations,Forecasting and Demand Planning:
+MGT,Operations,Scheduling and Production Planning
+MGT,Operations,Maintenance and Reliability
+MGT,Operations,Operations Research (OR) / Management Science
+MGT,Business Informatics,Information Systems Management
+MGT,Business Informatics,Enterprise Resource Planning (ERP) & Enterprise Systems
+MGT,Business Informatics,IT Project Management
+MGT,Business Informatics,IT Consulting & Digital Strategy
+MTeam,Business Informatics,Business Analytics (BA) & Business Intelligence (BI)
+MGT,Business Informatics,Database Management
+MGT,Business Informatics,Business Process Management (BPM)
+ASA,Graphic Design,Visual Identity/Branding Design
+ASA,Graphic Design,Marketing & Advertising Design
+ASA,Graphic Design,User Interface (UI) & User Experience (UX) Design
+ASA,Graphic Design,Publication/Editorial Design
+ASA,Graphic Design,Motion Graphic Design
+ASA,Graphic Design,Environmental Graphic Design
+ASA,Graphic Design,Packaging Design
+ASA,Media Design,Interactive/UX/UI Design
+ASA,Media Design,Game Design
+ASA,Media Design,Digital Film & Video Production
+ASA,Media Design,Media Arts & Creative Coding
+ASA,Product Design,Industrial Design
+ASA,Product Design,Digital Product Design
+ASA,Product Design,Systems & Service Design (Ecosystem Design)
+Physics,Physics,Mechanics
+Physics,Physics,Thermodynamics
+Physics,Physics,Electromagnetism
+Physics,Physics,Optics
+Physics,Physics,Acoustics
+Physics,Physics,Quantum Mechanics
+Physics,Physics,Relativity
+Physics,Physics,Atomic, Molecular, & Optical (AMO) Physics
+Physics,Physics,Nuclear & Particle Physics
+Physics,Physics,Condensed Matter Physics

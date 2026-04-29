@@ -1,0 +1,981 @@
+topic_words,prompt,response
+"detection, tracking, object, recognition, computer","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: detection, tracking, object, recognition, computer
+Research Field: Image & Video Processing
+Answer:",Object Detection and Tracking
+"segmentation, pixels, regions, clustering, boundary","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: segmentation, pixels, regions, clustering, boundary
+Research Field: Image & Video Processing
+Answer:",Image Segmentation and Clustering
+"enhancement, filtering, noise, restoration, quality","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: enhancement, filtering, noise, restoration, quality
+Research Field: Image & Video Processing
+Answer:",Image Restoration and Enhancement
+"compression, encoding, decoding, storage, bandwidth","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: compression, encoding, decoding, storage, bandwidth
+Research Field: Image & Video Processing
+Answer:",Image and Video Compression
+"feature, extraction, descriptor, matching, retrieval","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: feature, extraction, descriptor, matching, retrieval
+Research Field: Image & Video Processing
+Answer:",Feature Extraction and Retrieval
+"motion, estimation, flow, analysis, video","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: motion, estimation, flow, analysis, video
+Research Field: Image & Video Processing
+Answer:",Motion Estimation and Analysis
+"neural, convolutional, learning, deep, networks","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: neural, convolutional, learning, deep, networks
+Research Field: Image & Video Processing
+Answer:",Deep Learning and Convolutional Neural Networks
+"filter, design, fir, iir, adaptive","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: filter, design, fir, iir, adaptive
+Research Field: Signal Processing
+Answer:",Digital Filter Design
+"transform, fourier, wavelet, spectral, estimation","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: transform, fourier, wavelet, spectral, estimation
+Research Field: Signal Processing
+Answer:",Spectral Analysis and Transforms
+"noise, denoising, estimation, kalman, wiener","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: noise, denoising, estimation, kalman, wiener
+Research Field: Signal Processing
+Answer:",Noise Estimation and Denoising
+"sampling, conversion, analog, digital, quantization","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: sampling, conversion, analog, digital, quantization
+Research Field: Signal Processing
+Answer:",Analog-to-Digital Conversion
+"compression, coding, source, lossy, lossless","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: compression, coding, source, lossy, lossless
+Research Field: Signal Processing
+Answer:",Source Coding and Compression
+"array, beamforming, localization, sensors, detection","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: array, beamforming, localization, sensors, detection
+Research Field: Signal Processing
+Answer:",Sensor Array Signal Processing and Beamforming
+"image, video, processing, enhancement, segmentation","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: image, video, processing, enhancement, segmentation
+Research Field: Signal Processing
+Answer:",Image and Video Processing
+"convolutional, unet, mask, fcn, pixel","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: convolutional, unet, mask, fcn, pixel
+Research Field: Image Segmentation
+Answer:",Deep Learning for Image Segmentation
+"semantic, instance, panoptic, classes, delineation","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: semantic, instance, panoptic, classes, delineation
+Research Field: Image Segmentation
+Answer:",Advanced Image Segmentation Techniques
+"thresholding, clustering, region, watershed, graph","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: thresholding, clustering, region, watershed, graph
+Research Field: Image Segmentation
+Answer:",Classical Image Segmentation Techniques
+"medical, mri, tumor, diagnosis, radiography","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: medical, mri, tumor, diagnosis, radiography
+Research Field: Image Segmentation
+Answer:",Medical Image Segmentation
+"autonomous, vehicles, driving, lanes, roads","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: autonomous, vehicles, driving, lanes, roads
+Research Field: Image Segmentation
+Answer:",Autonomous Vehicle Road and Lane Segmentation
+"boundary, edge, contour, detection, precision","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: boundary, edge, contour, detection, precision
+Research Field: Image Segmentation
+Answer:",Edge and Boundary Detection
+"annotation, ground, truth, dataset, labeling","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: annotation, ground, truth, dataset, labeling
+Research Field: Image Segmentation
+Answer:",Dataset Annotation and Labeling
+"detection, classification, recognition, segmentation, tracking","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: detection, classification, recognition, segmentation, tracking
+Research Field: Computer Vision
+Answer:",Visual Recognition and Analysis
+"convolutional, neural, networks, deep, learning","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: convolutional, neural, networks, deep, learning
+Research Field: Computer Vision
+Answer:",Deep Learning
+"three-dimensional, reconstruction, geometry, pose, depth","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: three-dimensional, reconstruction, geometry, pose, depth
+Research Field: Computer Vision
+Answer:",3D Reconstruction and Geometry
+"generative, models, synthesis, gans, diffusion","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: generative, models, synthesis, gans, diffusion
+Research Field: Computer Vision
+Answer:",Generative Models and Image Synthesis
+"robustness, adversarial, attacks, generalization, uncertainty","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: robustness, adversarial, attacks, generalization, uncertainty
+Research Field: Computer Vision
+Answer:",Adversarial Robustness and Generalization
+"autonomous, driving, robotics, slam, perception","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: autonomous, driving, robotics, slam, perception
+Research Field: Computer Vision
+Answer:",Autonomous Perception and SLAM
+"medical, imaging, diagnosis, radiology, biometrics","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: medical, imaging, diagnosis, radiology, biometrics
+Research Field: Computer Vision
+Answer:",Medical Imaging and Diagnosis
+"classification, features, algorithm, data, training","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: classification, features, algorithm, data, training
+Research Field: Pattern Recognition
+Answer:",Supervised Machine Learning Classification
+"image, vision, segmentation, recognition, detection","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: image, vision, segmentation, recognition, detection
+Research Field: Pattern Recognition
+Answer:",Computer Vision and Image Analysis
+"speech, audio, voice, acoustics, speaker","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: speech, audio, voice, acoustics, speaker
+Research Field: Pattern Recognition
+Answer:",Speech and Audio Processing
+"biometric, face, fingerprint, authentication, identity","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: biometric, face, fingerprint, authentication, identity
+Research Field: Pattern Recognition
+Answer:",Biometric Authentication
+"neural, deep, learning, network, machine","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: neural, deep, learning, network, machine
+Research Field: Pattern Recognition
+Answer:",Deep Learning for Pattern Recognition
+"text, handwriting, character, optical, documents","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: text, handwriting, character, optical, documents
+Research Field: Pattern Recognition
+Answer:",Optical Character Recognition and Document Analysis
+"data, mining, extraction, discovery, large","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: data, mining, extraction, discovery, large
+Research Field: Pattern Recognition
+Answer:",Large Scale Data Mining and Knowledge Discovery
+"interpretability, transparency, black-box, trust, auditability","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: interpretability, transparency, black-box, trust, auditability
+Research Field: Explainable Artificial Intelligence (XAI)
+Answer:",Model Interpretability and Transparency
+"lime, shap, surrogate, local, agnostic","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: lime, shap, surrogate, local, agnostic
+Research Field: Explainable Artificial Intelligence (XAI)
+Answer:",Model-Agnostic Local Explanations
+"features, relevance, importance, attribution, saliency","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: features, relevance, importance, attribution, saliency
+Research Field: Explainable Artificial Intelligence (XAI)
+Answer:",Feature Importance and Attribution
+"causal, counterfactuals, logic, rules, reasoning","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: causal, counterfactuals, logic, rules, reasoning
+Research Field: Explainable Artificial Intelligence (XAI)
+Answer:",Causal and Logical Reasoning
+"human, user, interface, evaluation, fidelity","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: human, user, interface, evaluation, fidelity
+Research Field: Explainable Artificial Intelligence (XAI)
+Answer:",Human-Computer Interface Evaluation
+"ethics, fairness, bias, accountability, regulation","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: ethics, fairness, bias, accountability, regulation
+Research Field: Explainable Artificial Intelligence (XAI)
+Answer:",AI Ethics and Governance
+"neural, deep, cnn, transformer, visualization","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: neural, deep, cnn, transformer, visualization
+Research Field: Explainable Artificial Intelligence (XAI)
+Answer:",Deep Learning Model Visualization
+"transformer, attention, sequence, language, model","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: transformer, attention, sequence, language, model
+Research Field: Natural Language Processing
+Answer:",Transformer Language Models
+"parsing, syntactic, dependency, tree, grammar","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: parsing, syntactic, dependency, tree, grammar
+Research Field: Natural Language Processing
+Answer:",Syntactic Parsing
+"emotion, sentiment, opinion, classification, analysis","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: emotion, sentiment, opinion, classification, analysis
+Research Field: Natural Language Processing
+Answer:",Sentiment Analysis and Opinion Mining
+"tokenization, embedding, vocabulary, corpus, pre-processing","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: tokenization, embedding, vocabulary, corpus, pre-processing
+Research Field: Natural Language Processing
+Answer:",Text Pre-processing and Embedding
+"dialogue, chatbot, generation, interaction, system","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: dialogue, chatbot, generation, interaction, system
+Research Field: Natural Language Processing
+Answer:",Conversational AI and Chatbot Systems
+"entity, recognition, linking, extraction, named","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: entity, recognition, linking, extraction, named
+Research Field: Natural Language Processing
+Answer:",Named Entity Recognition and Extraction
+"translation, machine, cross-lingual, parallel, transfer","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: translation, machine, cross-lingual, parallel, transfer
+Research Field: Natural Language Processing
+Answer:",Machine Translation and Cross-Lingual Transfer
+"etl, pipeline, ingestion, transformation, loading","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: etl, pipeline, ingestion, transformation, loading
+Research Field: Data Engineering
+Answer:",ETL and Data Pipelines
+"warehouse, lake, schema, modeling, sql","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: warehouse, lake, schema, modeling, sql
+Research Field: Data Engineering
+Answer:",Data Warehousing and Architecture
+"stream, processing, real-time, kafka, flink","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: stream, processing, real-time, kafka, flink
+Research Field: Data Engineering
+Answer:",Real-time Stream Processing
+"hadoop, spark, distributed, storage, processing","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: hadoop, spark, distributed, storage, processing
+Research Field: Data Engineering
+Answer:",Distributed Data Processing and Storage
+"governance, quality, metadata, lineage, compliance","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: governance, quality, metadata, lineage, compliance
+Research Field: Data Engineering
+Answer:",Data Governance and Quality Management
+"monitoring, automation, airflow, orchestration, scheduling","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: monitoring, automation, airflow, orchestration, scheduling
+Research Field: Data Engineering
+Answer:",Workflow Orchestration and Automation
+"nosql, relational, database, tuning, optimization","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: nosql, relational, database, tuning, optimization
+Research Field: Data Engineering
+Answer:",Database Tuning and Optimization
+"visualization, dashboard, reporting, charts, insight","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: visualization, dashboard, reporting, charts, insight
+Research Field: Data Analytics
+Answer:",Data Visualization and Reporting
+"regression, classification, clustering, prediction, learning","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: regression, classification, clustering, prediction, learning
+Research Field: Data Analytics
+Answer:",Machine Learning and Predictive Analytics
+"cleaning, wrangling, transform, imputation, quality","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: cleaning, wrangling, transform, imputation, quality
+Research Field: Data Analytics
+Answer:",Data Cleaning and Preparation
+"sql, database, query, storage, warehousing","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: sql, database, query, storage, warehousing
+Research Field: Data Analytics
+Answer:",Database Management and Warehousing
+"statistics, inference, testing, probability, sampling","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: statistics, inference, testing, probability, sampling
+Research Field: Data Analytics
+Answer:",Statistical Inference and Probability
+"business, metrics, kpi, strategy, performance","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: business, metrics, kpi, strategy, performance
+Research Field: Data Analytics
+Answer:",Business Performance Metrics and Strategy
+"time, series, forecasting, trending, seasonal","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: time, series, forecasting, trending, seasonal
+Research Field: Data Analytics
+Answer:",Time Series Analysis and Forecasting
+"offloading, computation, latency, mobile, resource","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: offloading, computation, latency, mobile, resource
+Research Field: Edge Computing
+Answer:",Mobile Computation Offloading
+"federated, learning, privacy, distributed, model","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: federated, learning, privacy, distributed, model
+Research Field: Edge Computing
+Answer:",Privacy-Preserving Federated Learning in Edge Computing
+"caching, content, delivery, proximity, storage","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: caching, content, delivery, proximity, storage
+Research Field: Edge Computing
+Answer:",Edge Content Delivery and Caching
+"fog, cloud, hierarchy, interoperability, management","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: fog, cloud, hierarchy, interoperability, management
+Research Field: Edge Computing
+Answer:",Hierarchical Fog-Cloud Management
+"security, intrusion, authentication, protection, trust","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: security, intrusion, authentication, protection, trust
+Research Field: Edge Computing
+Answer:",Edge Computing Security and Trust Management
+"iot, sensors, devices, connectivity, gateway","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: iot, sensors, devices, connectivity, gateway
+Research Field: Edge Computing
+Answer:",IoT Connectivity and Gateway Systems
+"realtime, analytics, processing, stream, data","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: realtime, analytics, processing, stream, data
+Research Field: Edge Computing
+Answer:",Real-time Stream Analytics
+"modeling, simulation, physical, cyber, real-time","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: modeling, simulation, physical, cyber, real-time
+Research Field: Digital Twin
+Answer:",Cyber-Physical Systems Modeling and Simulation
+"data, acquisition, sensors, integration, analytics","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: data, acquisition, sensors, integration, analytics
+Research Field: Digital Twin
+Answer:",Sensor Data Integration and Analytics
+"industrial, iot, manufacturing, operations, optimization","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: industrial, iot, manufacturing, operations, optimization
+Research Field: Digital Twin
+Answer:",Industrial IoT and Manufacturing Optimization
+"prediction, maintenance, failure, health, prognostics","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: prediction, maintenance, failure, health, prognostics
+Research Field: Digital Twin
+Answer:",Predictive Maintenance and Prognostics
+"augmented, virtual, reality, visualization, interaction","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: augmented, virtual, reality, visualization, interaction
+Research Field: Digital Twin
+Answer:",Immersive Visualization and Interaction in Digital Twins
+"systems, complex, interoperability, architecture, platforms","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: systems, complex, interoperability, architecture, platforms
+Research Field: Digital Twin
+Answer:",Complex Systems Architecture and Interoperability
+"control, closed-loop, feedback, autonomous, management","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: control, closed-loop, feedback, autonomous, management
+Research Field: Digital Twin
+Answer:",Autonomous Control and Management
+"amplifier, opamp, feedback, gain, bandwidth","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: amplifier, opamp, feedback, gain, bandwidth
+Research Field: Analog Electronics
+Answer:",Operational Amplifier Design and Analysis
+"transistor, mosfet, bjt, device, modeling","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: transistor, mosfet, bjt, device, modeling
+Research Field: Analog Electronics
+Answer:",Semiconductor Device Modeling
+"converter, digital, sampling, resolution, noise","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: converter, digital, sampling, resolution, noise
+Research Field: Analog Electronics
+Answer:",Analog-to-Digital Converters
+"filter, active, passive, frequency, signal","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: filter, active, passive, frequency, signal
+Research Field: Analog Electronics
+Answer:",Analog Filters
+"radio, frequency, wireless, microwave, lna","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: radio, frequency, wireless, microwave, lna
+Research Field: Analog Electronics
+Answer:",RF and Microwave Electronics
+"power, supply, regulator, efficiency, management","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: power, supply, regulator, efficiency, management
+Research Field: Analog Electronics
+Answer:",Power Management and Voltage Regulation
+"integrated, circuit, design, layout, verification","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: integrated, circuit, design, layout, verification
+Research Field: Analog Electronics
+Answer:",Integrated Circuit Design and Verification
+"synthesis, logic, rtl, timing, optimization","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: synthesis, logic, rtl, timing, optimization
+Research Field: Electronic Circuits Design Automation
+Answer:",Logic Synthesis and Optimization
+"place, route, layout, geometry, physical","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: place, route, layout, geometry, physical
+Research Field: Electronic Circuits Design Automation
+Answer:",Physical Design and Layout
+"verification, formal, equivalence, assertion, functional","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: verification, formal, equivalence, assertion, functional
+Research Field: Electronic Circuits Design Automation
+Answer:",Formal Verification and Functional Validation
+"power, low, optimization, analysis, clock","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: power, low, optimization, analysis, clock
+Research Field: Electronic Circuits Design Automation
+Answer:",Low-Power Design and Clock Tree Optimization
+"simulation, circuit, spice, transistor, modeling","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: simulation, circuit, spice, transistor, modeling
+Research Field: Electronic Circuits Design Automation
+Answer:",Circuit Simulation and Modeling
+"testing, testability, fault, design, coverage","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: testing, testability, fault, design, coverage
+Research Field: Electronic Circuits Design Automation
+Answer:",Design for Testability and Fault Coverage
+"machine, learning, ai, bayes, reinforcement","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: machine, learning, ai, bayes, reinforcement
+Research Field: Electronic Circuits Design Automation
+Answer:",AI-Assisted Circuit Design Automation
+"internet, things, iiot, sensors, connectivity","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: internet, things, iiot, sensors, connectivity
+Research Field: Industry 4.0
+Answer:",Industrial Internet of Things (IIoT) Connectivity
+"smart, factory, manufacturing, automation, systems","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: smart, factory, manufacturing, automation, systems
+Research Field: Industry 4.0
+Answer:",Smart Manufacturing Systems
+"digital, twin, modeling, simulation, physical","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: digital, twin, modeling, simulation, physical
+Research Field: Industry 4.0
+Answer:",Digital Twin Modeling and Simulation
+"cybersecurity, threats, industrial, networks, protection","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: cybersecurity, threats, industrial, networks, protection
+Research Field: Industry 4.0
+Answer:",Industrial Network Security and Protection
+"big, data, analytics, real-time, optimization","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: big, data, analytics, real-time, optimization
+Research Field: Industry 4.0
+Answer:",Real-time Big Data Analytics and Optimization
+"ai, machine, learning, predictive, maintenance","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: ai, machine, learning, predictive, maintenance
+Research Field: Industry 4.0
+Answer:",AI-Based Predictive Maintenance
+"cloud, edge, computing, decentralized, processing","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: cloud, edge, computing, decentralized, processing
+Research Field: Industry 4.0
+Answer:",Cloud and Edge Computing
+"chemical, gas, detection, surface, selectivity","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: chemical, gas, detection, surface, selectivity
+Research Field: Sensors
+Answer:",Chemical and Gas Sensors
+"piezoelectric, capacitive, memristor, transducer, nanomaterials","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: piezoelectric, capacitive, memristor, transducer, nanomaterials
+Research Field: Sensors
+Answer:",Advanced Transducers and Nanomaterials
+"wireless, network, iot, communication, node","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: wireless, network, iot, communication, node
+Research Field: Sensors
+Answer:",Wireless Sensor Networks and IoT Communication
+"microfluidics, biological, biomarker, detection, immunosensor","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: microfluidics, biological, biomarker, detection, immunosensor
+Research Field: Sensors
+Answer:",Microfluidic Biosensors and Immunosensors
+"calibration, noise, accuracy, drift, linearity","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: calibration, noise, accuracy, drift, linearity
+Research Field: Sensors
+Answer:",Sensor Calibration and Performance
+"remote, imaging, lidar, radar, satellite","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: remote, imaging, lidar, radar, satellite
+Research Field: Sensors
+Answer:",Remote Sensing and Imaging Systems
+"wearable, implantable, flexible, integrated, monitoring","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: wearable, implantable, flexible, integrated, monitoring
+Research Field: Sensors
+Answer:",Wearable and Implantable Sensors
+"neural, networks, deep, learning, model","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: neural, networks, deep, learning, model
+Research Field: Artificial Intelligence
+Answer:",Deep Learning and Neural Networks
+"data, privacy, ethics, bias, fairness","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: data, privacy, ethics, bias, fairness
+Research Field: Artificial Intelligence
+Answer:",AI Ethics and Privacy
+"reinforcement, agent, environment, reward, policy","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: reinforcement, agent, environment, reward, policy
+Research Field: Artificial Intelligence
+Answer:",Reinforcement Learning
+"language, natural, processing, translation, sentiment","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: language, natural, processing, translation, sentiment
+Research Field: Artificial Intelligence
+Answer:",Natural Language Processing
+"vision, image, recognition, detection, segmentation","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: vision, image, recognition, detection, segmentation
+Research Field: Artificial Intelligence
+Answer:",Computer Vision
+"generative, adversarial, gan, creation, synthetic","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: generative, adversarial, gan, creation, synthetic
+Research Field: Artificial Intelligence
+Answer:",Generative Adversarial Networks
+"explainable, xai, interpretability, transparency, feature","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: explainable, xai, interpretability, transparency, feature
+Research Field: Artificial Intelligence
+Answer:",Explainable Artificial Intelligence (XAI)
+"intrusion, detection, anomaly, network, system","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: intrusion, detection, anomaly, network, system
+Research Field: Cybersecurity
+Answer:",Network Intrusion Detection and Anomaly Analysis
+"malware, analysis, reverse, engineering, sandbox","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: malware, analysis, reverse, engineering, sandbox
+Research Field: Cybersecurity
+Answer:",Malware Analysis and Reverse Engineering
+"encryption, decryption, algorithm, cryptography, key","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: encryption, decryption, algorithm, cryptography, key
+Research Field: Cybersecurity
+Answer:",Cryptography
+"phishing, social, engineering, user, awareness","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: phishing, social, engineering, user, awareness
+Research Field: Cybersecurity
+Answer:",Phishing and Social Engineering Awareness
+"access, control, authentication, authorization, identity","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: access, control, authentication, authorization, identity
+Research Field: Cybersecurity
+Answer:",Identity and Access Management
+"iot, device, protocol, security, firmware","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: iot, device, protocol, security, firmware
+Research Field: Cybersecurity
+Answer:",IoT Device and Firmware Security
+"blockchain, ledger, decentralized, smart, contract","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: blockchain, ledger, decentralized, smart, contract
+Research Field: Cybersecurity
+Answer:",Blockchain and Smart Contracts
+"security, encryption, privacy, access, authentication","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: security, encryption, privacy, access, authentication
+Research Field: Cloud Computing
+Answer:",Cloud Computing Security and Privacy
+"virtualization, servers, data, centers, infrastructure","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: virtualization, servers, data, centers, infrastructure
+Research Field: Cloud Computing
+Answer:",Cloud Infrastructure and Virtualization
+"resource, allocation, scheduling, load, balancing","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: resource, allocation, scheduling, load, balancing
+Research Field: Cloud Computing
+Answer:",Cloud Resource Management
+"edge, computing, latency, fog, devices","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: edge, computing, latency, fog, devices
+Research Field: Cloud Computing
+Answer:",Edge and Fog Computing
+"ai, machine, learning, data, analytics","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: ai, machine, learning, data, analytics
+Research Field: Cloud Computing
+Answer:",AI-driven Cloud Analytics
+"containerization, kubernetes, docker, orchestration, serverless","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: containerization, kubernetes, docker, orchestration, serverless
+Research Field: Cloud Computing
+Answer:",Cloud Infrastructure and Orchestration
+"green, energy, efficiency, sustainable, power","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: green, energy, efficiency, sustainable, power
+Research Field: Cloud Computing
+Answer:",Green Cloud Computing
+"machine, learning, model, algorithm, prediction","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: machine, learning, model, algorithm, prediction
+Research Field: Data Science
+Answer:",Machine Learning and Predictive Modeling
+"big, data, processing, scale, storage","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: big, data, processing, scale, storage
+Research Field: Data Science
+Answer:",Big Data Infrastructure and Processing
+"data, cleaning, wrangling, prep, imputation","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: data, cleaning, wrangling, prep, imputation
+Research Field: Data Science
+Answer:",Data Preprocessing and Preparation
+"visualization, dashboard, charts, insight, storytelling","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: visualization, dashboard, charts, insight, storytelling
+Research Field: Data Science
+Answer:",Data Visualization and Storytelling
+"statistics, inference, hypothesis, test, probability","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: statistics, inference, hypothesis, test, probability
+Research Field: Data Science
+Answer:",Statistical Inference and Hypothesis Testing
+"neural, networks, deep, training, architecture","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: neural, networks, deep, training, architecture
+Research Field: Data Science
+Answer:",Deep Learning Architecture and Training
+"natural, language, text, sentiment, nlp","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: natural, language, text, sentiment, nlp
+Research Field: Data Science
+Answer:",Natural Language Processing and Sentiment Analysis
+"processor, memory, cache, bus, architecture","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: processor, memory, cache, bus, architecture
+Research Field: Computer Engineering
+Answer:",Computer Architecture
+"gate, circuit, digital, design, logic","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: gate, circuit, digital, design, logic
+Research Field: Computer Engineering
+Answer:",Digital Logic Design
+"embedded, system, firmware, microcontroller, realtime","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: embedded, system, firmware, microcontroller, realtime
+Research Field: Computer Engineering
+Answer:",Embedded Systems
+"network, protocol, wireless, routing, internet","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: network, protocol, wireless, routing, internet
+Research Field: Computer Engineering
+Answer:",Wireless Networking and Routing
+"learning, algorithm, data, neural, intelligence","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: learning, algorithm, data, neural, intelligence
+Research Field: Computer Engineering
+Answer:",Artificial Intelligence and Machine Learning
+"operating, kernel, resource, scheduling, system","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: operating, kernel, resource, scheduling, system
+Research Field: Computer Engineering
+Answer:",Operating Systems
+"pipeline, risc, isa, cpu, performance","System Prompt: You are an expert at analyzing research topics and generating concise, descriptive labels.
+Given a set of keywords and a research field, generate a clear and relevant topic label that captures the essence of the topic.
+Provide only the topic label without any additional explanation.
+
+Topic Keywords: pipeline, risc, isa, cpu, performance
+Research Field: Computer Engineering
+Answer:",Computer Architecture

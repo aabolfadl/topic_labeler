@@ -1,0 +1,68 @@
+topic_words,topic_label,predicted_label_small,predicted_label_base,predicted_label_large,similarity_gpt,similarity_small,similarity_base,similarity_large
+"model, language, task, training, tuning, pre, fine, data",Machine Learning Models,Model Language Training,Model Language Training,Data Mining Techniques,0.8681065,0.874256,0.874256,0.8220017
+"model, network, training, learning, data, neural, deep, feature",Deep Neural Networks,Model Network Training,Deep Learning,Deep Neural Networks,0.86545056,0.84892875,0.8425144,0.8654506
+"problem, algorithm, optimization, objective, solution, search, evolutionary, function",Optimization Algorithms,Problem Optimization,Optimization Algorithms,Optimization Algorithms,0.8740885,0.86175334,0.8740885,0.8740886
+"model, method, learning, algorithm, data, problem, distribution, function",Learning Methods,Model Learning Methods,Model Learning Algorithms,Model-Based Learning,0.82878894,0.8351971,0.8453109,0.8019817
+"text, word, document, sentence, based, model, method, classification",Text Classification,"Text, Word, Document, Methods",Text-Based Classification,Text-Based Classification,0.8961673,0.9480232,0.9019538,0.9019538
+"image, data, model, learning, using, based, deep, detection",Image Processing,Image Detection,Deep Learning,Deep Image Learning,0.81673396,0.852616,0.87900996,0.88632596
+"network, neural, model, learning, training, method, architecture, based",Neural Network Architecture,Network Learning Models,Neural Networks,Neural Networks (NNNs),0.8897678,0.8683096,0.8878995,0.9545432
+"series, time, forecasting, multivariate, model, data, datasets, temporal",Time Series Forecasting,Time Forecasting,Time Series Forecasting,Multivariate Forecasting,0.90175885,0.8834683,0.90175885,0.8798097
+"model, data, human, machine, learning, research, explanation, based",Human-Machine Learning,Model Data Learning,Machine Learning,Human Machine Learning,0.85738516,0.82970107,0.83335626,0.8611497
+"agent, game, environment, task, human, learning, multi, reinforcement",Reinforcement Learning,Multi-Agent Learning,Multi-Agent Learning,Multi-Agent Systems,0.80896366,0.9074874,0.90748733,0.9010354
+"graph, data, learning, model, method, task, feature, domain",Graph Learning,Graph Data Learning,Data Learning Models,Graph Data Learning,0.8809967,0.873617,0.81913006,0.8736168
+"llm, reasoning, question, large, language, model, human, evaluation",Large Language Models,Language Models,Large-Language Models,Human Reasoning Models,0.8399172,0.8178457,0.88747597,0.85781205
+"method, point, view, pose, scene, based, estimation, image",Scene Estimation,Methods,Method Based Image Estimation,Image Processing Techniques,0.8720776,0.80259216,0.8668728,0.79688036
+"policy, offline, learning, reinforcement, reward, action, state, value",Reinforcement Policy,Politique Offline Learning,Learning Reinforcement Systems,Offline Reinforcement Learning,0.86166245,0.7884331,0.832521,0.8457551
+"regret, bandit, bound, algorithm, arm, reward, optimal, setting",Bandit Algorithms,Algorithms,Reward Algorithms,Regret Algorithms,0.86883456,0.83149827,0.85343957,0.87543124
+"object, model, task, detection, visual, learning, vision, performance",Object Detection,Object Modeling,Visual Learning,Visual Processing Systems,0.8744131,0.8282552,0.8329673,0.8505126
+"model, network, prediction, traffic, data, neural, graph, temporal",Traffic Prediction,Model Networks,Neural Networks,Neural Networks (NANs),0.8809058,0.85081863,0.83081925,0.89773655
+"anomaly, detection, data, unsupervised, method, normal, detecting, anomalous",Anomaly Detection,Anomalie,Anomaly Detection Methods,Anomaly Detection Systems,0.9178857,0.81870914,0.91365695,0.91450906
+"image, model, text, domain, method, data, training, task",Cross-Domain Learning,Image Modeling,Model Training,Data Mining and Machine Learning,0.87972516,0.8769423,0.85094965,0.8393526
+"entity, knowledge, graph, relation, information, question, kg, extraction",Knowledge Graphs,Information Processing,Knowledge Graphs,Knowledge Graphs,0.8560738,0.784425,0.8560738,0.8560739
+"feature, method, image, network, based, learning, attention, video",Attention-Based Learning,Feature Methods,Video Based Learning,Image-Based Learning,0.85552156,0.8312598,0.79424495,0.8412223
+"client, federated, fl, data, model, learning, local, privacy",Federated Learning,Client federated Learning,Local Data Modelling,Federated Learning Systems,0.8403379,0.79196465,0.72375,0.838164
+"translation, language, machine, multilingual, resource, english, lingual, low",Machine Translation,Multilingual Languages,Multilingual Machine Translation,Multilingual Machine Translation,0.90081865,0.8740165,0.8932556,0.8932557
+"dialogue, response, conversation, oriented, user, utterance, generation, turn",Dialogue Generation,Dialog Reactions,User Oriented Dialogues,Dialog-Oriented User Interfaces,0.8642613,0.8524173,0.8722863,0.81590587
+"gradient, stochastic, method, convergence, optimization, convex, rate, descent",Gradient Optimization,Convex Methods,Convex Optimization,Convex Optimization,0.8681996,0.8627362,0.8641801,0.8641801
+"model, sparse, data, estimator, high, estimation, dimensional, algorithm",Sparse Estimation,Model Data Analysis,Estimation Algorithms,Model Sparse Data Estimation,0.8835174,0.8583324,0.8665503,0.8901083
+"clustering, cluster, graph, algorithm, problem, data, spectral, result",Graph Clustering,Clustering,Clustering Algorithms,Clustering Algorithms,0.9126891,0.9092928,0.91545546,0.91545546
+"model, inference, process, algorithm, method, data, time, network",Inference Methods,Model Inferences,Modeling Algorithms,Data Mining and Algorithms,0.8419354,0.83050746,0.86520696,0.8471022
+"matrix, rank, low, tensor, completion, norm, problem, entry",Matrix Completion,Matrix Classifications,Matrix Optimization,Matrix Completion Problems,0.9006572,0.8581795,0.87246233,0.8990474
+"model, image, latent, natural, generative, variable, network, inference",Generative Models,Modeling,Natural Generative Networks,Natural Neural Networks (NNNs),0.8726251,0.83717793,0.90625024,0.8377485
+"regret, online, loss, algorithm, convex, optimization, bound, rate",Online Optimization,Algorithms,Online Loss Algorithms,Online Remort Optimization,0.87094355,0.85566556,0.87993205,0.7966169
+"feature, model, data, selection, method, sparse, variable, algorithm",Feature Selection,Feature Modeling,Model Selection Techniques,Sparse Data Selection,0.89172184,0.8529571,0.8726849,0.8625726
+"algorithm, search, time, tree, problem, space, result, polynomial",Algorithm Complexity,Algorithms,Algorithms and Time Trees,Search Algorithms,0.8476773,0.88076186,0.88451463,0.8796676
+"software, developer, build, project, library, documentation, repository, data",Software Development,Software Developers,Software DevOps,Software Development and Repository Design,0.8557569,0.87988037,0.81796575,0.845706
+"project, developer, source, open, software, community, contributor, ecosystem",Open Source Ecosystem,Project Developers,Open Source Software,Open Source Software,0.88257873,0.848003,0.8636317,0.8636317
+"defect, prediction, model, metric, data, project, software, performance",Defect Prediction Model,Defect Models,Defect Prediction Models,Software Engineering Metrics,0.9141691,0.8845078,0.91509956,0.86236894
+"model, data, based, method, using, time, elsevier, study",Data Modeling Methods,Model Data Analysis,Data Based Methodology,Model Data Based Methods,0.85801125,0.8821551,0.854842,0.87340975
+"data, big, processing, analytics, privacy, stream, structure, storage",Big Data Analytics,Data Processing,Big Data Processing,Big Data Analytics,0.89433074,0.87033,0.8908388,0.8943308
+"water, model, management, change, climate, elsevier, impact, decision",Water Management Models,Water Models,Water Management Models,Water Modeling,0.8856246,0.8815815,0.8856246,0.8684174
+"model, based, modelling, simulation, process, elsevier, analysis, study",Process Simulation,Model Based Modeling,Model Based Modelling,Model-Based Simulation,0.8509329,0.8734591,0.8709223,0.8514775
+"model, based, approach, modeling, verification, checking, property, language",Model Verification,Model Based Methodology,Model Based Approaches,Model-Based Verification,0.8880672,0.85837215,0.86908174,0.8837426
+"algorithm, time, network, problem, data, based, proposed, sensor",Network Algorithms,Algorithms,Time-Based Algorithms,Algorithmic Sensor Networks,0.820469,0.84676963,0.8796184,0.86490345
+"proof, logic, calculus, separation, order, semantics, theory, relation",Logic And Proof,ProofLogic Calculus,Logical Calculus,Proof Theory,0.88474977,0.8895461,0.89285517,0.8774169
+"software, safety, requirement, development, engineering, research, automotive, study",Software Safety Engineering,Software Engineering,Software Engineering,Software Requirement Engineering,0.86886466,0.868697,0.86869705,0.8274463
+"race, memory, data, event, bug, concurrency, concurrent, detection",Concurrency Bugs,Race Memory Data Analysis,Concurrency Detection,Concurrency and Memory Management,0.8678554,0.86744523,0.8279629,0.84031916
+"analysis, static, flow, program, graph, precision, code, dynamic",Static Code Analysis,Analyse,Static Programming,Static Analysis,0.86616445,0.8125962,0.8757839,0.85999304
+"model, learning, deep, network, neural, training, machine, method",Deep Learning Models,Model Learning,Deep Networked Learning,Deep Neural Networks,0.91130465,0.8527945,0.90516555,0.9240488
+"test, testing, autonomous, driving, performance, input, scenario, case",Autonomous Testing,Test-Testing,Test Driven Driving,Autonomous Driving Systems,0.8792829,0.8798097,0.8904692,0.88161016
+"model, checking, verification, property, formal, software, based, checker",Formal Model Checking,Model Checking,Software Based Verification,Software-Based Verification,0.8972753,0.9137322,0.8845086,0.8752268
+"apps, app, user, mobile, permission, developer, issue, analysis",Mobile App Analysis,Apps,Apps and Mobile Devices,Mobile App Permissions,0.8385011,0.8752377,0.85574186,0.8512908
+"symbolic, execution, path, program, input, coverage, engine, constraint",Symbolic Execution,Symbolic Execution,Symbolic Execution,Symbolic Execution,0.89649636,0.89649636,0.89649636,0.89649636
+"program, invariant, verification, loop, technique, termination, approach, property",Program Verification,Program Invariant Methods,Programming Invariant Verification,Program Invariant Verification,0.8680172,0.863744,0.8657594,0.88935065
+"fault, localization, technique, failure, program, debugging, based, spectrum",Fault Localization,Debugging,Program Debugging Techniques,Fault-Based Programming,0.869418,0.8423618,0.8476654,0.8888477
+"language, programming, code, semantics, compiler, specification, transformation, implementation",Programming Languages,Language Programming,Language Programming,Programming Language Semantics,0.8939315,0.88526314,0.8852631,0.90384805
+"algorithm, synthesis, automaton, constraint, problem, solver, specification, state",Algorithm Synthesis,Algorithms,Algorithm Synthesis,Automated Problem Solving,0.86029965,0.83548075,0.86029965,0.81602937
+"model, process, transformation, modeling, language, approach, business, tool",Business Process Modeling,Model Transformation,Business Modeling,Modeling and Transformation,0.8716396,0.8803836,0.8554101,0.9007334
+"mobile, device, edge, network, user, application, computing, offloading",Edge Computing,Mobile Devices,Mobile Device Computing,Mobile Device Computing,0.82771534,0.8425829,0.8372954,0.8372954
+"graph, vertex, path, edge, query, processing, time, network",Graph Processing,Diagramm Processing,Network Processing Techniques,Graph Processing,0.85748637,0.8002544,0.80590653,0.85748637
+"mutant, mutation, operator, equivalent, testing, program, analysis, suite",Mutation Testing,Mutant Technologies,Mutant Mutation Operators,Mutant Molecular Testing,0.8502371,0.86319876,0.8896811,0.81097794
+"quantum, circuit, computer, program, computing, software, classical, qubits",Quantum Computing,Quantum Computer Programming,Quantum Computing,Quantum Computing,0.85301435,0.8727554,0.85301435,0.85301423
+"type, typing, typed, gradual, session, inference, refinement, function",Type Systems,Typing,Typed Inference,Typing Algorithms,0.8488681,0.8419028,0.8765384,0.8348187
+"problem, constraint, solution, solver, instance, programming, relaxation, integer",Constraint Solving,Problem Restrictions,Problem Solving Techniques,Problem Solving Algorithms,0.86512756,0.85785127,0.856095,0.871616
+"smell, code, design, detection, bad, study, class, test",Code Smells,Germination Code Design,Bad Smell Code Design,Bad Software Design,0.88506156,0.8563223,0.89309275,0.82522225
+"optimization, design, topology, objective, structural, problem, proposed, based",Structural Optimization,Optimization Design,Optimization Design,Optimization Theory and Design,0.87378764,0.8884667,0.8884667,0.8944067
+"model, analysis, simulation, structure, material, method, data, element",Material Simulation,Model Analysis,Model Analysis and Simulation,Modeling and Simulation,0.7994882,0.81509095,0.83567137,0.8687039
+"vulnerability, security, attack, code, analysis, vulnerable, secure, detection",Security Vulnerabilities,Security Attacks,Security Analysis Techniques,Vulnerability Analysis and Security,0.8894528,0.8719948,0.87196565,0.9008633
+"mesh, element, finite, boundary, domain, method, surface, grid",Finite Element Method,Mesh-Elements,Finite Element Geometry,Finite Element Methods,0.88812304,0.89229834,0.8846437,0.880844

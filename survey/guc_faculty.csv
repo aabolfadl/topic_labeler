@@ -1,0 +1,97 @@
+first_name,last_name,research_field,email
+Ehab,Kamel,Accounting,ehab.kamel@guc.edu.eg
+Hassan,Ouda,Accounting,hassan.ouda@guc.edu.eg
+Diana,Mostafa,Accounting,diana.mostafa@guc.edu.eg
+Hala,Magdy,Accounting,hala.amin@guc.edu.eg
+Mona,Elbannan,Finance,mona.elbannan@guc.edu.eg
+Heba,Ali,Finance,heba.abbas-ali@guc.edu.eg
+Hadeer,Mounir,Finance,hadeer.ali@guc.edu.eg
+Hany,Ismail,BI,hany.ismail@guc.edu.eg
+Ralf,Klischewski,BI,ralf.klischewski@guc.edu.eg
+Gamal,Kassem,BI,gamal.kassem@guc.edu.eg
+Ayman,Al-Serafi,BI,ayman.alserafi@guc.edu.eg
+Ehab,Yaseen,Operations,ehab.yaseen@guc.edu.eg
+Hebatalla,Ghoneim,Economics,hebatallah.ghoneim@guc.edu.eg
+Antonio,Andres,Economics,antonio.andres@guc.edu.eg
+Christian,Schubert,Economics,christian.schubert@guc.edu.eg
+Tarek,F. Riad,Law,tarek.riad@krr-law.com
+Raghda,El Ebrashi,Management,raghda.elebrashi@guc.edu.eg
+Ahmed,Amin,HR & Organizational Behavior,ahmed.aminmohamed@guc.edu.eg
+Menatallah,Darrag,HR & Organizational Behavior,menatallah.darrag@guc.edu.eg
+Florian,Becker-Ritterspach,International Business,florian.becker@guc.edu.eg
+Noha,El-Bassiouny,Marketing,noha.elbassiouny@guc.edu.eg
+Tamer,Awad,Marketing,tamer.awad@guc.edu.eg
+Sara,El Deeb,Marketing,sara.eldeeb@guc.edu.eg
+Hans,Breitinger,Biochemistry,hans.breitinger@guc.edu.eg
+Mohamed,Zakaria Gad,Biochemistry,mohamed.gad@guc.edu.eg
+Sahar,Abdel Maksoud,Biochemistry,sahar.abdel-maksoud@guc.edu.eg
+Ingy,Mostafa Hashad,Biochemistry,ingy.hashad@guc.edu.eg
+Ulrike,Breitinger,Biochemistry,ulrike.breitinger@guc.edu.eg
+Mohamed,Hassan Solayman,Clinical Pharmacy,mohamed.Solayman@guc.edu.eg
+Khaled,Aboueisha,"Microbiology, Immunology and Biotechnology",khaled.abou-aisha@guc.edu.eg
+Mohamed,El-Azizi,"Microbiology, Immunology and Biotechnology",mohamed.el-azizi@guc.edu.eg
+Heba,Handoussa,Pharmaceutical Biology,heba.handoussa@guc.edu.eg
+Ashraf,Abadi,Pharmaceutical Chemistry,ashraf.abadi@guc.edu.eg
+Darius,Zlotos,Pharmaceutical Chemistry,darius.zlotos@guc.edu.eg
+Rasha,Hanafi,Pharmaceutical Chemistry,rasha.hanafi@guc.edu.eg
+Mohammad,Abdelhalim,Pharmaceutical Chemistry,mohammad.abdel-halim@guc.edu.eg
+Nermin,Salah,Pharmaceutical Chemistry,nermin.salah@guc.edu.eg
+Nesrine,Elgohary,Pharmaceutical Chemistry,nesrine.elgohary@guc.edu.eg
+Reham,Abdel-Kader,Pharmacology and Toxicology,reham.abdelkader@guc.edu.eg
+Lobna,Abdelaal Kassem,Pharmacology and Toxicology,lobna.abdelaal@guc.edu.eg
+Nabila,Hamdi,Pharmacology and Toxicology,nabila.hamdi@guc.edu.eg
+Hend,El Tayebi,Pharmacology and Toxicology,hend.saber@guc.edu.eg
+Samar,Mansour,Pharmaceutical Technology,samar.mansour@guc.edu.eg
+Salma,Tammam,Pharmaceutical Technology,salma.nabil@guc.edu.eg
+Dunja,Karcher,Architecture & Urban Design,Dunja.karcher@guc.edu.eg
+Michael,Eichner,Architecture & Urban Design,Michael.eichner@guc.edu.eg
+Rita,Pinto de Freitas,Architecture & Urban Design,Rita.pintodefreitas@guc.edu.eg
+Hussam,Salama,Architecture & Urban Design,Hussam.salama@guc.edu.eg
+Manlio,Michieletto,Architecture & Urban Design,Michieletto.manlio@guc.edu.eg
+Silvia,Covarino,Architecture & Urban Design,Silvia.covarino@guc.edu.eg
+Hisham,Gabr,Building Technology,Hisham.Gabr@guc.edu.eg
+Wafaa,Nadim,Building Technology,Wafaa.nadim@guc.edu.eg
+Christian,Schmitt,Building Technology,Christian.schmitt@guc.edu.eg
+Ruairí,O'Brien,Visual Design & Presentation,Ruairi.obrien@guc.edu.eg
+Tallal,Osama ElShabrawy,IET,Tallal.el-shabrawy@guc.edu.eg
+Ahmed,El-Mahdy,IET,ahmed.elmahdy@guc.edu.eg
+Hany,Fathy Hammad,IET,hany.hammad@guc.edu.eg
+Abdelmegid,Allam,IET,abdelmegid.allam@guc.edu.eg
+Mohamed,Ehsan Ashour,IET,mohamed.ashour@guc.edu.eg
+Frank,Gunzer,IET,frank.funzer@guc.edu.eg
+Mohamed,Abdel Ghany,IET,mohamed.abdel-ghany@guc.edu.eg
+Eman,Azab,IET,eman.azab@guc.edu.eg
+Maggie,Mashaly,IET,maggie.ezzat@guc.edu.eg
+Wassim,Alexan,IET,wassim.joseph@guc.edu.eg
+Haitham,Omran,IET,haitham.omran@guc.edu.eg
+Dina,Eldamak,IET,dina.eldamak@guc.edu.eg
+Minar,El Aassar,IET,minar.elaasser@guc.edu.eg
+Amna,Ramzy,Production Technology,amna.ramzy@guc.edu.eg
+Haythem,Ismail,Theory of Computation,haythem.ismail@guc.edu.eg
+Ahmed,Abd El Aziz,Material Science,ahmed.aziz@guc.edu.eg
+Ahmed,Wahby,Applied Arts,ahmed.wahby@guc.edu.eg
+Mohamed,El-Azizi,Pharmacy & Biotech,mohamed.el-azizi@guc.edu.eg
+Amna,Ramzy,Production Technology,amna.ramzy@guc.edu.eg
+Hesham,Hamed,Production Technology,hesham.hamed@guc.edu.eg
+Ahmed,Shash,Production Technology,ahmed.shash@guc.edu.eg
+Catherine,Elias,Embedded Systems,catherine.elias@guc.edu.eg
+Haythem,Ismail,Theoretical Computer Science,haythem.ismail@guc.edu.eg
+Nourhan,Ehab,Theoretical Computer Science,nourhan.ehab@guc.edu.eg
+Milad,Ghantous,Computer Engineering,milad.michel@guc.edu.eg
+Rimon,Elias,Computer Graphics,rimon.elias@guc.edu.eg
+Shereen,Afifi,Computer Graphics,shereen.moataz@guc.edu.eg
+Mohamed,Salem,Computer Graphics,mohammed.salem@guc.edu.eg
+Sherif,Saad,Networks,sherif.ahmed@guc.edu.eg
+Ahmed,Abdelfattah,Discrete Mathematics,ahmed.abdelfattah@guc.edu.eg
+Wael,Aboulsaadat,Databases,wael.aboulsaadat@guc.edu.eg
+Mervat,Abuelkheir,Software Engineering,mervat.abuelkheir@guc.edu.eg
+Hisham,Othman,Digital Multimedia,hisham.othman@guc.edu.eg
+Mohamed,Hamed,Machine Learning,mohamed.hamed-fahmy@guc.edu.eg
+Mohamed,Karam Gabr,Computer Vision & Image Processing,mohamed.kamel-gabr@guc.edu.eg
+Frank,Gunzer,Quantum Computing,frank.gunzer@guc.edu.eg
+Eman,Azab,Electronics,eman.azab@guc.edu.eg
+Walid,Omran,Circuits,walid.omran@guc.edu.eg
+Abdelmegid,Allam,Signals,abdelmegid.allam@guc.edu.eg
+Hany,El Sharkawy,Probability and Statistics,hany.elsharkawy@guc.edu.eg
+Hassane,Abbas,Linear Algebra,hassane.abbas@guc.edu.eg
+Ahmed,Maarouf,Physics for Engineering,ahmed.maarouf@guc.edu.eg

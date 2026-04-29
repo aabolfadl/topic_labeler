@@ -1,0 +1,345 @@
+MET
+
+Computer Science
+
+Theory of Computation
+Algorithms and Data Structures
+Programming Language Theory (PLT)
+Computer Architecture
+Operating Systems
+Networking and Communication
+Concurrent, Parallel, and Distributed Systems
+Software Engineering
+Machine Learning
+Natural Language Processing
+Data Science
+Human-Computer Interaction
+Cybersecurity
+Bioinformatics
+
+Computer Engineering
+
+Microprocessors & Microcontrollers
+VLSI (Very-Large-Scale Integration) Design
+Digital Logic and Digital Systems Design
+Cyber-Physical Systems
+Compilers
+
+Digital Media Engineering
+
+Virtual and Augmented Reality
+Game Engineering and Technology
+Interaction Design
+Digital Signal Processing
+Audio-Visual Systems Engineering
+Computer Graphics
+
+
+IET
+
+Networks Engineering
+
+Routing and Switching
+Network Design and Architecture
+Wired and Wireless Networks
+Cloud Networking
+Software-Defined Networking (SDN)
+Network Virtualization
+Network Automation and Programmability
+Network Security Engineering
+Network Performance and Optimization
+Network Monitoring and Analysis
+
+Communications Engineering
+
+Mobile and Cellular Networks
+Radio Frequency (RF) Engineering
+Antennas and Wave Propagation
+Satellite Communication
+Digital Signal Processing (DSP)
+Information Theory and Coding
+Modulation and Demodulation
+Optical Communication Engineering
+Network Engineering and Architectures
+High-Speed Communication (Broadband)
+
+Electronics Engineering
+
+VLSI (Very-Large-Scale Integration) Design
+Analog Electronics
+Digital Electronics
+Nanoelectronics
+Telecommunications Engineering
+RF (Radio Frequency) and Microwave Engineering
+Electromagnetics
+Optical Communication
+Digital Signal Processing
+
+
+EMS
+
+Materials Engineering
+
+Metallurgy
+Ceramic Engineering
+Polymer Science and Engineering
+Composite Materials
+Semiconductors
+Magnetic Materials
+Photonic Materials
+Nanomaterials and Nanotechnology
+Biomaterials and Biomedical Engineering
+Computational Materials Science and Materials Informatics
+Materials for Energy and the Environment
+Surface Engineering and Characterization
+
+
+Design & Production Engineering
+
+Industrial Design
+Computer-Aided Engineering
+Design for X (DFX)
+Materials Selection and Failure Analysis
+Machining and Forming
+Additive Manufacturing
+Tool and Die Design
+Joining and Assembly
+Industrial Automation and Robotics
+Quality Engineering
+Lean and Digital Manufacturing (Industry 4.0)
+Supply Chain and Logistics
+
+Civil Engineering
+
+Structural Engineering
+Geotechnical Engineering
+Materials Engineering
+Transportation Engineering
+Water Resources Engineering
+Environmental Engineering
+Municipal or Urban Engineering
+Construction Engineering and Management
+Coastal Engineering
+Surveying (Geomatics)
+
+Architecture Engineering
+
+Structural Analysis and Design
+Foundation Engineering (Geotechnical Link)
+Materials Science
+HVAC (Heating, Ventilation, and Air Conditioning) Engineering
+Building Energy Modeling and Sustainability
+Acoustical Engineering
+Lighting Systems Design (Illumination Engineering)
+Power Distribution
+Fire Protection Engineering
+Construction Methods and Estimating
+Building Information Modeling (BIM)
+
+Mechatronics Engineering
+
+Control Systems Engineering
+Mechanical Design and Dynamics
+Electronic and Electrical Systems
+Embedded Systems
+Robotics and Automation
+Smart Products and Devices
+Industrial Control and Process Management
+Biomedical and Healthcare Devices
+
+
+PBT
+
+Pharmacy
+
+Industrial Pharmacy (Pharmaceutics)
+Pharmaceutical Chemistry
+Regulatory Affairs
+Pharmacovigilance
+Clinical Trials
+Medical Science Liaison
+Managed Care Pharmacy
+Pharmacy Informatics
+
+Biotechnology
+
+Medical Biotechnology
+Agricultural Biotechnology
+Industrial Biotechnology
+Environmental Biotechnology
+Marine Biotechnology
+Food Biotechnology
+Genetic Engineering
+Bioinformatics
+Bioprocessing/Biomanufacturing
+Nanobiotechnology
+Forensic Biotechnology
+
+Clinical Pharmacy
+
+Pharmacotherapy
+Ambulatory Care
+Critical Care
+Emergency Medicine
+Cardiology Pharmacy
+Infectious Diseases
+Oncology Pharmacy
+Psychiatric Pharmacy
+Pediatric Pharmacy
+Geriatric Pharmacy
+Transplant Pharmacy
+Nutrition Support Pharmacy
+Nuclear Pharmacy
+Pain Management and Palliative Care
+Pharmacogenomics
+
+
+MGT
+
+Finance
+
+Corporate Finance
+Investments / Asset Management
+Personal Finance
+Public Finance
+Investment Banking
+Commercial Banking
+Real Estate Finance
+Risk Management
+Financial Engineering / Quantitative Finance
+Actuarial Science
+Financial Technology (FinTech)
+Behavioral Finance
+International/Global Finance
+
+Accounting
+
+Financial Accounting
+Management Accounting
+Cost Accounting
+Tax Accounting
+Auditing
+Forensic Accounting
+Governmental/Public Sector Accounting
+Non-Profit/Fund Accounting
+Accounting Information Systems (AIS)
+
+Economics
+
+Microeconomics
+Macroeconomics
+
+HR
+
+Talent Acquisition & Staffing
+Compensation and Benefits
+Training and Development
+Performance Management
+Employee & Labor Relations
+HR Compliance and Risk Management
+HR Technology & Analytics (HRIS)
+
+Organizational Behaviour
+
+Motivation
+Perception and Attribution
+Personality and Attitudes
+Leadership and Power
+Group Dynamics and Teamwork
+Communication
+Organizational Culture
+Organizational Structure and Design
+Organizational Change and Development
+Cross-Cultural/Global OB (Anthropology)
+
+Marketing
+
+Market Research
+Product Marketing
+Brand Management
+Pricing
+Customer Relationship Management (CRM)
+Digital Marketing
+Traditional Marketing & Public Relations
+
+Operations
+
+Process Design and Analysis
+Product/Service Design
+Operations Strategy
+Supply Chain Management (SCM)
+Inventory Management
+Logistics and Distribution
+Procurement/Sourcing
+Quality Management (QM)
+Forecasting and Demand Planning:
+Scheduling and Production Planning
+Maintenance and Reliability
+Operations Research (OR) / Management Science
+
+Business Informatics
+
+Information Systems Management
+Enterprise Resource Planning (ERP) & Enterprise Systems
+IT Project Management
+IT Consulting & Digital Strategy
+Business Analytics (BA) & Business Intelligence (BI)
+Database Management
+Business Process Management (BPM)
+
+
+ASA
+
+Graphic Design
+
+Visual Identity/Branding Design
+Marketing & Advertising Design
+User Interface (UI) & User Experience (UX) Design
+Publication/Editorial Design
+Motion Graphic Design
+Environmental Graphic Design
+Packaging Design
+
+Media Design
+
+Interactive/UX/UI Design
+Game Design
+Digital Film & Video Production
+Media Arts & Creative Coding
+
+Product Design
+
+Industrial Design
+Digital Product Design
+Systems & Service Design (Ecosystem Design)
+
+
+Physics
+
+Mechanics
+Thermodynamics
+Electromagnetism
+Optics
+Acoustics
+Quantum Mechanics
+Relativity
+Atomic, Molecular, & Optical (AMO) Physics
+Nuclear & Particle Physics
+Condensed Matter Physics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

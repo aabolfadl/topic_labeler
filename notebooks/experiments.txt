@@ -1,0 +1,6 @@
+Experiment 0: Comparing LLMs on previously labeled pairs
+Experiment 1: Fine-tuning T5 Small vs Base vs Large on the small dataset previously labeled
+Experiment 2: Fine-tuning T5 Base & Large on Taxonomy & Verified datasets
+Experiment 3: Fine-tuning Qwen using RL on both Verified and Taxonomy datasets
+Experiment 4: Full fine-tuning Flan T5 Base using Curriculum Learning
+Experiment 5: LoRA fine-tuning of Flan T5 Base & Large using Curriculum Learning
